@@ -1295,3 +1295,1311 @@ LogInit: Object subsystem initialized
 [2016.12.08-08.46.14:869][500]LogMaterial: Missing cached shader map for material White, compiling. 
 [2016.12.08-08.46.14:884][500]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
 [2016.12.08-08.46.16:887][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Furniture/White" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/White.uasset" SILENT=true
+[2016.12.08-08.46.16:897][500]LogSavePackage: Save=9.56ms
+[2016.12.08-08.46.16:898][500]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/WhiteEA62488C46638EE27D2B7B8EF512B246.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/White.uasset'
+[2016.12.08-08.46.16:899][500]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/White.uasset
+[2016.12.08-08.46.16:902][500]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 59 instructions
+[2016.12.08-08.46.16:902][500]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-08.46.16:902][500]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.12.08-11.16.26:850][427]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-11.16.26:857][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-11.16.26:857][427]PIE: New page: PIE session: TestLevel (Dec 8, 2016, 1:16:26 PM)
+[2016.12.08-11.16.26:857][427]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2016.12.08-11.16.26:867][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009939s)
+[2016.12.08-11.16.26:868][427]LogAIModule: Creating AISystem for world TestLevel
+[2016.12.08-11.16.26:868][427]LogPlayLevel: PIE: World Init took: (0.000494s)
+[2016.12.08-11.16.26:868][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.010595s)
+[2016.12.08-11.16.26:880][427]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-11.16.26:885][427]LogInit: FAudioDevice initialized.
+[2016.12.08-11.16.26:916][427]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-11.16.26:917][427]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2016.12.08-12.16.26
+[2016.12.08-11.16.26:918][427]LogWorld: Bringing up level for play took: 0.000865
+[2016.12.08-11.16.26:920][427]PIE: Info Play in editor start time for /Game/UEDPIE_0_TestLevel -0.815
+[2016.12.08-11.17.14:276][889]MapCheck: New page: Map Check
+[2016.12.08-11.17.14:290][889]Cmd: MAP REBUILD ALLVISIBLE
+[2016.12.08-11.17.14:290][889]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.12.08-11.17.14:300][889]LightingResults: New page: Lighting Build - Dec 8, 2016, 1:17:14 PM
+[2016.12.08-11.17.14:352][889]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.08-11.17.14:353][889]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.08-11.17.14:353][889]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.08-11.17.14:354][889]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.08-11.17.14:354][889]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2016.12.08-11.17.18:858][889]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.12.08-11.17.18:858][889]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.08-11.17.18:858][889]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.08-11.17.18:858][889]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.08-11.17.18:858][889]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.08-11.17.18:858][889]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.08-11.17.19:002][889]LogEditorBuildUtils: Build time 0:04
+[2016.12.08-11.17.19:009][889]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Wood_Texture_2_Mat, compiling. 
+[2016.12.08-11.17.19:015][889]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Wood_Texture_2_Mat, compiling. 
+[2016.12.08-11.17.19:034][890]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer sp_wood_oak_1_Mat, compiling. 
+[2016.12.08-11.17.19:041][890]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer sp_wood_oak_1_Mat, compiling. 
+[2016.12.08-11.17.32:213][536]Job is a success!
+[2016.12.08-11.17.32:378][537]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.12.08-11.17.32:378][537]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.12.08-11.17.32:378][537]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.12.08-11.17.32:378][537]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.12.08-11.17.32:393][537]Lightmass on 3SE-SPEL-64: 11.6 sec total, 1.55 sec importing, 442 ms setup, 623 ms photons, 9.01 sec processing, 0 ms extra exporting [29/29 mappings]. Threads: 35.9 sec total, 7.51 sec processing.
+[2016.12.08-11.17.32:400][537]LogStaticLightingSystem: Illumination: 18.0 sec (91 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2016.12.08-11.17.32:400][537]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.0 MB streaming, 0.5 MB non-streaming), 4 textures
+[2016.12.08-11.17.32:400][537]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2016.12.08-11.17.32:863][537]DumpUnbuiltLightIteractions
+[2016.12.08-11.17.32:863][537]Lights with unbuilt interactions: 0
+[2016.12.08-11.17.32:863][537]
+[2016.12.08-11.17.32:863][537]Primitives with unbuilt interactions: 0
+[2016.12.08-11.17.32:872][538]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.08-11.17.32:873][538]MapCheck: New page: TestLevel - Dec 8, 2016, 1:17:32 PM
+[2016.12.08-11.17.32:873][538]MapCheck:Warning: Warning Table_17 Static mesh actor has NULL StaticMesh property 
+[2016.12.08-11.17.32:873][538]MapCheck:Warning: Warning Table_17 Static mesh actor has NULL StaticMesh property 
+[2016.12.08-11.17.33:826][538]MapCheck: Info Map check complete: 0 Error(s), 2 Warning(s), took 952.316ms to complete.
+[2016.12.08-11.17.34:083][548]LogEditorViewport: Clicking Background
+[2016.12.08-11.17.51:494][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table2)
+[2016.12.08-11.18.00:542][690]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-11.18.00:550][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-11.18.00:550][690]PIE: New page: PIE session: TestLevel (Dec 8, 2016, 1:18:00 PM)
+[2016.12.08-11.18.00:550][690]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2016.12.08-11.18.00:554][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003878s)
+[2016.12.08-11.18.00:554][690]LogAIModule: Creating AISystem for world TestLevel
+[2016.12.08-11.18.00:555][690]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2016.12.08-11.18.00:555][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.004552s)
+[2016.12.08-11.18.00:566][690]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-11.18.00:570][690]LogInit: FAudioDevice initialized.
+[2016.12.08-11.18.00:600][690]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-11.18.00:602][690]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2016.12.08-12.18.00
+[2016.12.08-11.18.00:602][690]LogWorld: Bringing up level for play took: 0.000870
+[2016.12.08-11.18.00:604][690]PIE: Info Play in editor start time for /Game/UEDPIE_0_TestLevel 0.863
+[2016.12.08-11.18.40:636][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table2)
+[2016.12.08-11.18.55:439][209]LogMaterial: Missing cached shader map for material Wood_Texture_2_Mat, compiling. 
+[2016.12.08-11.18.55:504][209]LogMaterial: Missing cached shader map for material Wood_Texture_2_Mat, compiling. 
+[2016.12.08-11.18.55:516][209]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-11.18.55:544][209]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2016.12.08-11.18.55:548][209]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2016.12.08-11.18.58:373][373]MaterialEditorStats: Info Base pass shader with static lighting: 61 instructions
+[2016.12.08-11.18.58:373][373]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2016.12.08-11.18.58:373][373]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-11.18.58:373][373]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.08-11.19.05:414][959]LogMaterial: Missing cached shader map for material Wood_Texture_2_Mat, compiling. 
+[2016.12.08-11.19.05:426][959]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-11.19.07:318][ 73]MaterialEditorStats: Info Base pass shader with static lighting: 61 instructions
+[2016.12.08-11.19.07:318][ 73]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2016.12.08-11.19.07:318][ 73]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-11.19.07:318][ 73]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.08-11.19.10:667][383]LogMaterial: Missing cached shader map for material Wood_Texture_2_Mat, compiling. 
+[2016.12.08-11.19.10:679][383]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-11.19.13:242][559]MaterialEditorStats: Info Base pass shader with static lighting: 61 instructions
+[2016.12.08-11.19.13:242][559]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2016.12.08-11.19.13:242][559]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-11.19.13:242][559]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.08-11.19.17:411][943]LogMaterial: Missing cached shader map for material Wood_Texture_2_Mat, compiling. 
+[2016.12.08-11.19.17:423][943]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-11.19.19:924][115]MaterialEditorStats: Info Base pass shader with static lighting: 61 instructions
+[2016.12.08-11.19.19:924][115]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2016.12.08-11.19.19:924][115]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-11.19.19:925][115]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.08-11.19.30:177][ 44]LogMaterial: Missing cached shader map for material Wood_Texture_2_Mat, compiling. 
+[2016.12.08-11.19.30:188][ 44]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-11.19.32:596][209]MaterialEditorStats: Info Base pass shader with static lighting: 61 instructions
+[2016.12.08-11.19.32:597][209]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2016.12.08-11.19.32:597][209]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-11.19.32:597][209]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.08-11.19.33:224][265]LogMaterialEditor: Saving and Compiling material Wood_Texture_2_Mat
+[2016.12.08-11.19.33:758][265]LogMaterial: Missing cached shader map for material Wood_Texture_2_Mat, compiling. 
+[2016.12.08-11.19.33:782][265]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-11.19.33:805][265]LogMaterial: Missing cached shader map for material Wood_Texture_2_Mat, compiling. 
+[2016.12.08-11.19.33:840][265]LogMaterial: Missing cached shader map for material Wood_Texture_2_Mat, compiling. 
+[2016.12.08-11.19.33:862][265]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-11.19.36:889][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Furniture/Wood_Texture_2_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/Wood_Texture_2_Mat.uasset" SILENT=true
+[2016.12.08-11.19.36:904][265]LogSavePackage: Save=12.81ms
+[2016.12.08-11.19.36:904][265]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Wood_Texture_2_MatAD0341E447443B265214A5A1E0FCBD1B.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/Wood_Texture_2_Mat.uasset'
+[2016.12.08-11.19.36:906][265]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/Wood_Texture_2_Mat.uasset
+[2016.12.08-11.19.36:908][265]MaterialEditorStats: Info Base pass shader with static lighting: 91 instructions
+[2016.12.08-11.19.36:908][265]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 65 instructions
+[2016.12.08-11.19.36:908][265]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-11.19.36:908][265]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.12.08-11.19.44:567][906]LogMaterial: Missing cached shader map for material Wood_Texture_2_Mat, compiling. 
+[2016.12.08-11.19.44:578][906]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-11.19.46:717][ 44]MaterialEditorStats: Info Base pass shader with static lighting: 61 instructions
+[2016.12.08-11.19.46:717][ 44]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2016.12.08-11.19.46:717][ 44]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-11.19.46:717][ 44]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.08-11.19.52:084][514]LogMaterial: Missing cached shader map for material Wood_Texture_2_Mat, compiling. 
+[2016.12.08-11.19.52:097][514]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-11.19.52:136][514]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2016.12.08-11.19.54:034][625]MaterialEditorStats: Info Base pass shader with static lighting: 61 instructions
+[2016.12.08-11.19.54:034][625]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2016.12.08-11.19.54:034][625]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-11.19.54:034][625]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.08-11.19.55:186][726]LogMaterial: Missing cached shader map for material Wood_Texture_2_Mat, compiling. 
+[2016.12.08-11.19.55:199][726]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-11.19.57:309][860]MaterialEditorStats: Info Base pass shader with static lighting: 58 instructions
+[2016.12.08-11.19.57:309][860]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 30 instructions
+[2016.12.08-11.19.57:309][860]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-11.19.57:309][860]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.08-11.20.01:169][213]LogMaterial: Missing cached shader map for material Wood_Texture_2_Mat, compiling. 
+[2016.12.08-11.20.01:181][213]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-11.20.01:207][213]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2016.12.08-11.20.03:146][336]MaterialEditorStats: Info Base pass shader with static lighting: 70 instructions
+[2016.12.08-11.20.03:146][336]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 42 instructions
+[2016.12.08-11.20.03:146][336]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-11.20.03:146][336]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.08-11.20.05:642][562]LogMaterialEditor: Saving and Compiling material Wood_Texture_2_Mat
+[2016.12.08-11.20.06:098][562]LogMaterial: Missing cached shader map for material Wood_Texture_2_Mat, compiling. 
+[2016.12.08-11.20.06:122][562]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-11.20.06:154][562]LogMaterial: Missing cached shader map for material Wood_Texture_2_Mat, compiling. 
+[2016.12.08-11.20.06:187][562]LogMaterial: Missing cached shader map for material Wood_Texture_2_Mat, compiling. 
+[2016.12.08-11.20.06:210][562]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-11.20.09:761][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Furniture/Wood_Texture_2_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/Wood_Texture_2_Mat.uasset" SILENT=true
+[2016.12.08-11.20.09:775][562]LogSavePackage: Save=13.20ms
+[2016.12.08-11.20.09:775][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Wood_Texture_2_MatD7921AF044A51882ADDA09834DBAF807.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/Wood_Texture_2_Mat.uasset'
+[2016.12.08-11.20.09:776][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/Wood_Texture_2_Mat.uasset
+[2016.12.08-11.20.09:779][562]MaterialEditorStats: Info Base pass shader with static lighting: 100 instructions
+[2016.12.08-11.20.09:779][562]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 74 instructions
+[2016.12.08-11.20.09:779][562]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-11.20.09:779][562]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.12.08-12.09.12:872][930]Cmd: MAP LOAD FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/JoelLevel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.08-12.09.12:904][930]LightingResults: New page: Lighting Build
+[2016.12.08-12.09.12:905][930]LoadErrors: New page: Loading map: JoelLevel1.umap
+[2016.12.08-12.09.12:906][930]MapCheck: New page: Map Check
+[2016.12.08-12.09.12:906][930]LightingResults: New page: Lighting Build
+[2016.12.08-12.09.12:957][930]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.12.08-12.09.12:958][930]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.12.08-12.09.12:962][930]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.12.08-12.09.12:962][930]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.12.08-12.09.12:966][930]LogAIModule: Creating AISystem for world JoelLevel1
+[2016.12.08-12.09.12:987][930]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.08-12.09.13:002][930]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.08-12.09.13:883][930]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 881.174ms to complete.
+[2016.12.08-12.09.13:883][930]LogFileHelpers: Loading map 'JoelLevel1' took 1.012
+[2016.12.08-12.09.26:151][108]Cmd: MAP LOAD FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.08-12.09.26:170][108]LightingResults: New page: Lighting Build
+[2016.12.08-12.09.26:171][108]LoadErrors: New page: Loading map: TestLevel.umap
+[2016.12.08-12.09.26:172][108]MapCheck: New page: Map Check
+[2016.12.08-12.09.26:172][108]LightingResults: New page: Lighting Build
+[2016.12.08-12.09.26:447][108]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.12.08-12.09.26:495][108]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.12.08-12.09.26:519][108]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.12.08-12.09.26:534][108]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.12.08-12.09.26:551][108]LogAIModule: Creating AISystem for world TestLevel
+[2016.12.08-12.09.26:556][108]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.08-12.09.26:571][108]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.08-12.09.26:620][108]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 49.683ms to complete.
+[2016.12.08-12.09.26:620][108]LogFileHelpers: Loading map 'TestLevel' took 0.471
+[2016.12.08-12.10.12:735][397]LightingResults: New page: Lighting Build
+[2016.12.08-12.10.12:735][397]MapCheck: New page: Map Check
+[2016.12.08-12.10.12:735][397]LightingResults: New page: Lighting Build
+[2016.12.08-12.10.12:746][397]LogAIModule: Creating AISystem for world Untitled
+[2016.12.08-12.10.12:749][397]LoadErrors: New page: New Map
+[2016.12.08-12.10.17:655][975]Cmd: POLY SELECT MEMORY UNION
+[2016.12.08-12.10.40:355][691]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2016.12.08-12.10.50:254][868]Cmd: DELETE
+[2016.12.08-12.10.50:254][868]Cmd: ACTOR DELETE
+[2016.12.08-12.10.50:257][868]LogEditorActor: Deleted Actor: Brush
+[2016.12.08-12.10.50:265][868]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2016.12.08-12.10.53:517][255]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2016.12.08-12.11.53:279][367]LogMaterial: Missing cached shader map for material sp_wood_oak_1_Mat, compiling. 
+[2016.12.08-12.11.53:347][367]LogMaterial: Missing cached shader map for material sp_wood_oak_1_Mat, compiling. 
+[2016.12.08-12.11.53:358][367]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-12.11.53:383][367]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2016.12.08-12.11.53:388][367]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2016.12.08-12.11.56:363][582]MaterialEditorStats: Info Base pass shader with static lighting: 61 instructions
+[2016.12.08-12.11.56:363][582]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2016.12.08-12.11.56:363][582]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-12.11.56:363][582]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.08-12.11.59:434][845]LogMaterial: Missing cached shader map for material sp_wood_oak_1_Mat, compiling. 
+[2016.12.08-12.11.59:447][845]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-12.12.01:526][  4]MaterialEditorStats: Info Base pass shader with static lighting: 61 instructions
+[2016.12.08-12.12.01:526][  4]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2016.12.08-12.12.01:526][  4]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-12.12.01:526][  4]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.08-12.12.03:278][167]LogMaterial: Missing cached shader map for material sp_wood_oak_1_Mat, compiling. 
+[2016.12.08-12.12.03:290][167]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-12.12.04:924][259]MaterialEditorStats: Info Base pass shader with static lighting: 61 instructions
+[2016.12.08-12.12.04:924][259]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2016.12.08-12.12.04:924][259]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-12.12.04:924][259]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.08-12.12.07:191][468]LogMaterialEditor: Saving and Compiling material sp_wood_oak_1_Mat
+[2016.12.08-12.12.07:718][468]LogMaterial: Missing cached shader map for material sp_wood_oak_1_Mat, compiling. 
+[2016.12.08-12.12.07:743][468]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-12.12.07:781][468]LogMaterial: Missing cached shader map for material sp_wood_oak_1_Mat, compiling. 
+[2016.12.08-12.12.07:815][468]LogMaterial: Missing cached shader map for material sp_wood_oak_1_Mat, compiling. 
+[2016.12.08-12.12.07:836][468]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-12.12.11:235][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/sp_wood_oak_1_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/sp_wood_oak_1_Mat.uasset" SILENT=true
+[2016.12.08-12.12.11:263][468]LogSavePackage: Save=12.78ms
+[2016.12.08-12.12.11:263][468]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/sp_wood_oak_1_Mat2A46DF504C75F322350C209A317089CB.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/sp_wood_oak_1_Mat.uasset'
+[2016.12.08-12.12.11:265][468]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/sp_wood_oak_1_Mat.uasset
+[2016.12.08-12.12.11:267][468]MaterialEditorStats: Info Base pass shader with static lighting: 91 instructions
+[2016.12.08-12.12.11:267][468]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 65 instructions
+[2016.12.08-12.12.11:267][468]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-12.12.11:267][468]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.12.08-12.12.58:282][887]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2016.12.08-12.12.59:686][ 52]Cmd: DELETE
+[2016.12.08-12.12.59:686][ 52]Cmd: ACTOR DELETE
+[2016.12.08-12.12.59:686][ 52]LogEditorActor: Deleted Actor: Brush
+[2016.12.08-12.12.59:702][ 52]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2016.12.08-12.13.04:893][672]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2016.12.08-12.13.44:251][316]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2016.12.08-12.14.45:879][591]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2016.12.08-12.15.19:996][630]Cmd: EDIT COPY
+[2016.12.08-12.15.20:192][653]Cmd: EDIT PASTE
+[2016.12.08-12.17.53:792][862]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush4)
+[2016.12.08-12.19.50:370][739]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.12.08-12.19.51:170][834]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.12.08-12.19.52:513][995]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-12.19.52:521][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-12.19.52:521][995]PIE: New page: PIE session: Untitled_1 (Dec 8, 2016, 2:19:52 PM)
+[2016.12.08-12.19.52:521][995]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.12.08-12.19.52:524][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002836s)
+[2016.12.08-12.19.52:525][995]LogAIModule: Creating AISystem for world Untitled
+[2016.12.08-12.19.52:525][995]LogPlayLevel: PIE: World Init took: (0.000508s)
+[2016.12.08-12.19.52:525][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.003506s)
+[2016.12.08-12.19.52:537][995]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-12.19.52:543][995]LogInit: FAudioDevice initialized.
+[2016.12.08-12.19.52:569][995]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-12.19.52:570][995]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.12.08-13.19.52
+[2016.12.08-12.19.52:570][995]LogWorld: Bringing up level for play took: 0.000571
+[2016.12.08-12.19.52:572][995]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.72
+[2016.12.08-12.20.20:399][293]MapCheck: New page: Map Check
+[2016.12.08-12.20.20:418][293]Cmd: MAP REBUILD ALLVISIBLE
+[2016.12.08-12.20.20:420][293]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.12.08-12.20.20:426][293]LightingResults: New page: Lighting Build - Dec 8, 2016, 2:20:20 PM
+[2016.12.08-12.20.20:446][293]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.08-12.20.20:447][293]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.08-12.20.20:448][293]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.08-12.20.20:448][293]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.08-12.20.20:448][293]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2016.12.08-12.20.24:953][293]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.12.08-12.20.24:953][293]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.08-12.20.24:953][293]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.08-12.20.24:953][293]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.08-12.20.24:953][293]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.08-12.20.24:953][293]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.08-12.20.25:093][293]LogEditorBuildUtils: Build time 0:04
+[2016.12.08-12.20.25:102][293]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer sp_wood_oak_1_Mat, compiling. 
+[2016.12.08-12.20.25:109][293]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer sp_wood_oak_1_Mat, compiling. 
+[2016.12.08-12.20.26:992][366]Job is a success!
+[2016.12.08-12.20.27:053][367]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.12.08-12.20.27:053][367]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.12.08-12.20.27:053][367]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (G8)
+[2016.12.08-12.20.27:066][367]Lightmass on 3SE-SPEL-64: 678 ms total, 363 ms importing, 1 ms setup, 108 ms photons, 151 ms processing, 0 ms extra exporting [14/14 mappings]. Threads: 569 ms total, 58 ms processing.
+[2016.12.08-12.20.27:071][367]LogStaticLightingSystem: Illumination: 6.62 sec (15 ms encoding lightmaps, 8 ms encoding shadowmaps)
+[2016.12.08-12.20.27:071][367]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.0 MB streaming, 0.1 MB non-streaming), 2 textures
+[2016.12.08-12.20.27:071][367]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2016.12.08-12.20.27:954][367]DumpUnbuiltLightIteractions
+[2016.12.08-12.20.27:954][367]Lights with unbuilt interactions: 0
+[2016.12.08-12.20.27:954][367]
+[2016.12.08-12.20.27:954][367]Primitives with unbuilt interactions: 0
+[2016.12.08-12.20.27:963][368]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.08-12.20.27:963][368]MapCheck: New page: Untitled_1 - Dec 8, 2016, 2:20:27 PM
+[2016.12.08-12.20.28:013][368]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 50.456ms to complete.
+[2016.12.08-12.20.41:952][  9]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-12.20.41:960][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-12.20.41:960][  9]PIE: New page: PIE session: Untitled_1 (Dec 8, 2016, 2:20:41 PM)
+[2016.12.08-12.20.41:960][  9]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.12.08-12.20.41:963][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002748s)
+[2016.12.08-12.20.41:964][  9]LogAIModule: Creating AISystem for world Untitled
+[2016.12.08-12.20.41:964][  9]LogPlayLevel: PIE: World Init took: (0.000479s)
+[2016.12.08-12.20.41:964][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.003391s)
+[2016.12.08-12.20.41:975][  9]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-12.20.41:979][  9]LogInit: FAudioDevice initialized.
+[2016.12.08-12.20.42:005][  9]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-12.20.42:006][  9]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.12.08-13.20.42
+[2016.12.08-12.20.42:007][  9]LogWorld: Bringing up level for play took: 0.000566
+[2016.12.08-12.20.42:009][  9]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.154
+[2016.12.08-12.21.01:455][317]LogActorFactory: Actor Factory created Sofa
+[2016.12.08-12.21.02:057][385]LogActorFactory: Actor Factory created Sofa
+[2016.12.08-12.21.32:234][843]LogActorFactory: Actor Factory created Table
+[2016.12.08-12.21.34:256][ 69]LogActorFactory: Actor Factory created Table
+[2016.12.08-12.21.46:191][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sofa)
+[2016.12.08-12.21.54:881][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2016.12.08-12.22.35:130][114]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-12.22.35:137][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-12.22.35:138][114]PIE: New page: PIE session: Untitled_1 (Dec 8, 2016, 2:22:35 PM)
+[2016.12.08-12.22.35:138][114]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.12.08-12.22.35:140][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002206s)
+[2016.12.08-12.22.35:140][114]LogAIModule: Creating AISystem for world Untitled
+[2016.12.08-12.22.35:140][114]LogPlayLevel: PIE: World Init took: (0.000475s)
+[2016.12.08-12.22.35:140][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.002837s)
+[2016.12.08-12.22.35:150][114]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-12.22.35:154][114]LogInit: FAudioDevice initialized.
+[2016.12.08-12.22.35:183][114]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-12.22.35:185][114]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.12.08-13.22.35
+[2016.12.08-12.22.35:185][114]LogWorld: Bringing up level for play took: 0.000627
+[2016.12.08-12.22.35:187][114]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.676
+[2016.12.08-12.22.41:350][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sofa)
+[2016.12.08-12.22.50:011][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2016.12.08-12.22.55:110][386]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-12.22.55:118][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-12.22.55:118][386]PIE: New page: PIE session: Untitled_1 (Dec 8, 2016, 2:22:55 PM)
+[2016.12.08-12.22.55:118][386]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.12.08-12.22.55:120][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002112s)
+[2016.12.08-12.22.55:120][386]LogAIModule: Creating AISystem for world Untitled
+[2016.12.08-12.22.55:121][386]LogPlayLevel: PIE: World Init took: (0.000484s)
+[2016.12.08-12.22.55:121][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.002766s)
+[2016.12.08-12.22.55:132][386]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-12.22.55:136][386]LogInit: FAudioDevice initialized.
+[2016.12.08-12.22.55:163][386]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-12.22.55:165][386]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.12.08-13.22.55
+[2016.12.08-12.22.55:165][386]LogWorld: Bringing up level for play took: 0.000611
+[2016.12.08-12.22.55:167][386]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.697
+[2016.12.08-12.24.02:587][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2016.12.08-12.25.14:271][547]LogMaterial: Missing cached shader map for material indoor_plant_2_vl_Mat, compiling. 
+[2016.12.08-12.25.14:294][547]LogMaterial:Warning: Material /Game/FbxAssets/Decorations/indoor_plant_2_vl_Mat.indoor_plant_2_vl_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2016.12.08-12.25.14:297][547]LogMaterial: Missing cached shader map for material indoor_plant_2_vl_Mat, compiling. 
+[2016.12.08-12.25.14:333][547]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-12.25.18:239][754]LogEditorViewport: Clicking Background
+[2016.12.08-12.25.48:491][ 77]Cmd: TRANSACTION UNDO
+[2016.12.08-12.25.48:491][ 77]LogEditorTransaction: Undo Set actor scale
+[2016.12.08-12.25.48:497][ 77]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Temp/Untitled_1.Untitled:PersistentLevel.ModelComponent_422' invalid (102 verts, 0 indices).
+[2016.12.08-12.25.48:497][ 77]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Temp/Untitled_1.Untitled:PersistentLevel.ModelComponent_423' invalid (102 verts, 0 indices).
+[2016.12.08-12.25.48:497][ 77]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Temp/Untitled_1.Untitled:PersistentLevel.ModelComponent_424' invalid (102 verts, 0 indices).
+[2016.12.08-12.25.48:497][ 77]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Temp/Untitled_1.Untitled:PersistentLevel.ModelComponent_425' invalid (102 verts, 0 indices).
+[2016.12.08-12.25.49:263][145]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (indoor_plant_02_6_1_1+2)
+[2016.12.08-12.26.10:673][584]MapCheck: New page: Map Check
+[2016.12.08-12.26.10:696][584]Cmd: MAP REBUILD ALLVISIBLE
+[2016.12.08-12.26.10:696][584]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.12.08-12.26.10:705][584]LightingResults: New page: Lighting Build - Dec 8, 2016, 2:26:10 PM
+[2016.12.08-12.26.10:710][584]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.08-12.26.10:711][584]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.08-12.26.10:711][584]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.08-12.26.10:711][584]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.08-12.26.10:711][584]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2016.12.08-12.26.15:216][584]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.12.08-12.26.15:216][584]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.08-12.26.15:216][584]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.08-12.26.15:216][584]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.08-12.26.15:216][584]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.08-12.26.15:216][584]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.08-12.26.15:344][584]LogEditorBuildUtils: Build time 0:04
+[2016.12.08-12.26.15:359][584]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Wood_Texture_2_Mat, compiling. 
+[2016.12.08-12.26.15:365][584]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Wood_Texture_2_Mat, compiling. 
+[2016.12.08-12.26.15:385][585]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Wood_Texture_Mat, compiling. 
+[2016.12.08-12.26.15:392][585]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Wood_Texture_Mat, compiling. 
+[2016.12.08-12.26.26:049][510]Job is a success!
+[2016.12.08-12.26.26:149][511]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.12.08-12.26.26:149][511]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.12.08-12.26.26:149][511]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.12.08-12.26.26:149][511]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.12.08-12.26.26:149][511]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (G8)
+[2016.12.08-12.26.26:149][511]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (G8)
+[2016.12.08-12.26.26:166][511]LogStaticLightingSystem: Illumination: 15.4 sec (44 ms encoding lightmaps, 10 ms encoding shadowmaps)
+[2016.12.08-12.26.26:166][511]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.0 MB streaming, 0.1 MB non-streaming), 4 textures
+[2016.12.08-12.26.26:166][511]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.12.08-12.26.26:218][511]DumpUnbuiltLightIteractions
+[2016.12.08-12.26.26:218][511]Lights with unbuilt interactions: 0
+[2016.12.08-12.26.26:218][511]
+[2016.12.08-12.26.26:218][511]Primitives with unbuilt interactions: 0
+[2016.12.08-12.26.26:224][512]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.08-12.26.26:225][512]MapCheck: New page: Untitled_1 - Dec 8, 2016, 2:26:26 PM
+[2016.12.08-12.26.26:278][512]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 53.28ms to complete.
+[2016.12.08-12.26.29:183][843]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-12.26.29:191][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-12.26.29:191][843]PIE: New page: PIE session: Untitled_1 (Dec 8, 2016, 2:26:29 PM)
+[2016.12.08-12.26.29:191][843]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.12.08-12.26.29:194][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002876s)
+[2016.12.08-12.26.29:195][843]LogAIModule: Creating AISystem for world Untitled
+[2016.12.08-12.26.29:195][843]LogPlayLevel: PIE: World Init took: (0.000485s)
+[2016.12.08-12.26.29:195][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.003521s)
+[2016.12.08-12.26.29:204][843]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-12.26.29:208][843]LogInit: FAudioDevice initialized.
+[2016.12.08-12.26.29:236][843]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-12.26.29:238][843]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.12.08-13.26.29
+[2016.12.08-12.26.29:238][843]LogWorld: Bringing up level for play took: 0.000734
+[2016.12.08-12.26.29:240][843]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.637
+[2016.12.08-12.26.58:260][286]Cmd: EDIT COPY
+[2016.12.08-12.26.58:457][309]Cmd: EDIT PASTE
+[2016.12.08-12.27.43:068][454]MapCheck: New page: Map Check
+[2016.12.08-12.27.43:098][454]Cmd: MAP REBUILD ALLVISIBLE
+[2016.12.08-12.27.43:099][454]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.12.08-12.27.43:108][454]LightingResults: New page: Lighting Build - Dec 8, 2016, 2:27:43 PM
+[2016.12.08-12.27.43:117][454]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.08-12.27.43:118][454]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.08-12.27.43:118][454]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.08-12.27.43:119][454]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.08-12.27.43:119][454]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2016.12.08-12.27.47:623][454]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.12.08-12.27.47:623][454]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.08-12.27.47:623][454]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.08-12.27.47:623][454]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.08-12.27.47:623][454]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.08-12.27.47:623][454]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.08-12.27.47:725][454]LogEditorBuildUtils: Build time 0:04
+[2016.12.08-12.27.47:735][454]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer White, compiling. 
+[2016.12.08-12.27.47:741][454]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer White, compiling. 
+[2016.12.08-12.28.03:364][194]Job is a success!
+[2016.12.08-12.28.03:470][195]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.12.08-12.28.03:470][195]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.12.08-12.28.03:470][195]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.12.08-12.28.03:470][195]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.12.08-12.28.03:470][195]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (G8)
+[2016.12.08-12.28.03:484][195]Lightmass on 3SE-SPEL-64: 14.7 sec total, 1.11 sec importing, 393 ms setup, 6.49 sec photons, 6.69 sec processing, 0 ms extra exporting [18/18 mappings]. Threads: 26.7 sec total, 6.87 sec processing.
+[2016.12.08-12.28.03:484][195]LogMaterial:Warning: Material /Game/FbxAssets/Furniture/White.White needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-12.28.03:487][195]LogMaterial: Missing cached shader map for material White, compiling. 
+[2016.12.08-12.28.03:506][195]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-12.28.03:514][195]LogStaticLightingSystem: Illumination: 20.3 sec (45 ms encoding lightmaps, 8 ms encoding shadowmaps)
+[2016.12.08-12.28.03:514][195]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.0 MB streaming, 0.1 MB non-streaming), 4 textures
+[2016.12.08-12.28.03:514][195]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2016.12.08-12.28.03:626][195]DumpUnbuiltLightIteractions
+[2016.12.08-12.28.03:626][195]Lights with unbuilt interactions: 0
+[2016.12.08-12.28.03:626][195]
+[2016.12.08-12.28.03:626][195]Primitives with unbuilt interactions: 0
+[2016.12.08-12.28.03:636][196]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.08-12.28.03:636][196]MapCheck: New page: Untitled_1 - Dec 8, 2016, 2:28:03 PM
+[2016.12.08-12.28.03:694][196]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 58.43ms to complete.
+[2016.12.08-12.28.05:672][343]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (indoor_plant_02_6_1_1+2)
+[2016.12.08-12.28.12:310][ 49]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-12.28.12:318][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-12.28.12:318][ 49]PIE: New page: PIE session: Untitled_1 (Dec 8, 2016, 2:28:12 PM)
+[2016.12.08-12.28.12:318][ 49]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.12.08-12.28.12:321][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003099s)
+[2016.12.08-12.28.12:321][ 49]LogAIModule: Creating AISystem for world Untitled
+[2016.12.08-12.28.12:321][ 49]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2016.12.08-12.28.12:322][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.003742s)
+[2016.12.08-12.28.12:333][ 49]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-12.28.12:338][ 49]LogInit: FAudioDevice initialized.
+[2016.12.08-12.28.12:366][ 49]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-12.28.12:368][ 49]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.12.08-13.28.12
+[2016.12.08-12.28.12:368][ 49]LogWorld: Bringing up level for play took: 0.000785
+[2016.12.08-12.28.12:370][ 49]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.487
+[2016.12.08-12.28.50:064][444]MapCheck: New page: Map Check
+[2016.12.08-12.28.50:084][444]Cmd: MAP REBUILD ALLVISIBLE
+[2016.12.08-12.28.50:085][444]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.12.08-12.28.50:092][444]LightingResults: New page: Lighting Build - Dec 8, 2016, 2:28:50 PM
+[2016.12.08-12.28.50:098][444]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.08-12.28.50:099][444]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.08-12.28.50:099][444]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.08-12.28.50:099][444]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.08-12.28.50:099][444]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2016.12.08-12.28.54:604][444]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.12.08-12.28.54:604][444]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.08-12.28.54:604][444]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.08-12.28.54:604][444]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.08-12.28.54:604][444]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.08-12.28.54:604][444]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.08-12.28.54:705][444]LogEditorBuildUtils: Build time 0:04
+[2016.12.08-12.28.54:711][444]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer White, compiling. 
+[2016.12.08-12.28.54:718][444]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer White, compiling. 
+[2016.12.08-12.29.04:930][314]Job is a success!
+[2016.12.08-12.29.05:041][315]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.12.08-12.29.05:041][315]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.12.08-12.29.05:041][315]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.12.08-12.29.05:041][315]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.12.08-12.29.05:041][315]LogTexture:Display: Building textures: ShadowMapTexture2D_4 (G8)
+[2016.12.08-12.29.05:041][315]LogTexture:Display: Building textures: ShadowMapTexture2D_5 (G8)
+[2016.12.08-12.29.05:054][315]Lightmass on 3SE-SPEL-64: 9.12 sec total, 1.13 sec importing, 425 ms setup, 520 ms photons, 7.02 sec processing, 0 ms extra exporting [18/18 mappings]. Threads: 27.5 sec total, 7.12 sec processing.
+[2016.12.08-12.29.05:060][315]LogStaticLightingSystem: Illumination: 14.9 sec (46 ms encoding lightmaps, 9 ms encoding shadowmaps)
+[2016.12.08-12.29.05:060][315]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.0 MB streaming, 0.1 MB non-streaming), 4 textures
+[2016.12.08-12.29.05:060][315]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.12.08-12.29.05:606][315]DumpUnbuiltLightIteractions
+[2016.12.08-12.29.05:606][315]Lights with unbuilt interactions: 0
+[2016.12.08-12.29.05:606][315]
+[2016.12.08-12.29.05:606][315]Primitives with unbuilt interactions: 0
+[2016.12.08-12.29.05:615][316]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.08-12.29.05:615][316]MapCheck: New page: Untitled_1 - Dec 8, 2016, 2:29:05 PM
+[2016.12.08-12.29.05:664][316]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 49.653ms to complete.
+[2016.12.08-12.29.14:689][387]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-12.29.14:697][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-12.29.14:697][387]PIE: New page: PIE session: Untitled_1 (Dec 8, 2016, 2:29:14 PM)
+[2016.12.08-12.29.14:697][387]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.12.08-12.29.14:701][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003140s)
+[2016.12.08-12.29.14:701][387]LogAIModule: Creating AISystem for world Untitled
+[2016.12.08-12.29.14:701][387]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2016.12.08-12.29.14:701][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.003847s)
+[2016.12.08-12.29.14:711][387]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-12.29.14:715][387]LogInit: FAudioDevice initialized.
+[2016.12.08-12.29.14:744][387]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-12.29.14:746][387]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.12.08-13.29.14
+[2016.12.08-12.29.14:746][387]LogWorld: Bringing up level for play took: 0.000862
+[2016.12.08-12.29.14:748][387]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.861
+[2016.12.08-12.34.37:637][967]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/UnrealProjects/Fbx assets/Lakheden.FBX)
+[2016.12.08-12.34.37:651][967]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.12.08-12.34.37:651][967]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.12.08-12.34.37:651][967]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.12.08-12.34.37:651][967]LogFbx: ItemName: Model, ItemCount : 1
+[2016.12.08-12.34.37:651][967]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.12.08-12.34.37:651][967]LogFbx: ItemName: Material, ItemCount : 8
+[2016.12.08-12.34.37:656][967]LogFbx: Loading FBX Scene from D:/UnrealProjects/Fbx assets/Lakheden.FBX
+[2016.12.08-12.34.37:722][967]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.08-12.34.39:663][967]LogFbx: Loading FBX Scene from D:/UnrealProjects/Fbx assets/Lakheden.FBX
+[2016.12.08-12.34.39:729][967]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.08-12.34.39:735][967]LogLinker: Can't find file '/Game/FbxAssets/Lights/Lakheden'
+[2016.12.08-12.34.39:739][967]LogMaterial: Missing cached shader map for material Lakheden2, compiling. 
+[2016.12.08-12.34.39:752][967]LogLinker: Can't find file '/Game/FbxAssets/Lights/screw-thread'
+[2016.12.08-12.34.39:753][967]LogLinker: Can't find file '/Game/FbxAssets/Lights/screw-thread'
+[2016.12.08-12.34.39:756][967]LogMaterial: Missing cached shader map for material screw-thread, compiling. 
+[2016.12.08-12.34.39:770][967]LogLinker: Can't find file '/Game/FbxAssets/Lights/metal'
+[2016.12.08-12.34.39:770][967]LogLinker: Can't find file '/Game/FbxAssets/Lights/metal'
+[2016.12.08-12.34.39:773][967]LogMaterial: Missing cached shader map for material metal, compiling. 
+[2016.12.08-12.34.39:787][967]LogLinker: Can't find file '/Game/FbxAssets/Lights/cord'
+[2016.12.08-12.34.39:787][967]LogLinker: Can't find file '/Game/FbxAssets/Lights/cord'
+[2016.12.08-12.34.39:790][967]LogMaterial: Missing cached shader map for material cord, compiling. 
+[2016.12.08-12.34.39:805][967]LogLinker: Can't find file '/Game/FbxAssets/Lights/glass'
+[2016.12.08-12.34.39:805][967]LogLinker: Can't find file '/Game/FbxAssets/Lights/glass'
+[2016.12.08-12.34.39:808][967]LogMaterial: Missing cached shader map for material glass, compiling. 
+[2016.12.08-12.34.39:822][967]LogLinker: Can't find file '/Game/FbxAssets/Lights/Alu_mat'
+[2016.12.08-12.34.39:822][967]LogLinker: Can't find file '/Game/FbxAssets/Lights/Alu_mat'
+[2016.12.08-12.34.39:834][967]LogMaterial: Missing cached shader map for material Alu_mat, compiling. 
+[2016.12.08-12.34.39:852][967]LogLinker: Can't find file '/Game/FbxAssets/Lights/thread'
+[2016.12.08-12.34.39:852][967]LogLinker: Can't find file '/Game/FbxAssets/Lights/thread'
+[2016.12.08-12.34.39:855][967]LogMaterial: Missing cached shader map for material thread, compiling. 
+[2016.12.08-12.34.39:870][967]LogLinker: Can't find file '/Game/FbxAssets/Lights/pin'
+[2016.12.08-12.34.39:870][967]LogLinker: Can't find file '/Game/FbxAssets/Lights/pin'
+[2016.12.08-12.34.39:873][967]LogMaterial: Missing cached shader map for material pin, compiling. 
+[2016.12.08-12.34.40:025][967]LogStaticMesh: Building static mesh Lakheden...
+[2016.12.08-12.34.45:819][967]LogStaticMesh: Built static mesh [5.79s] /Game/FbxAssets/Lights/Lakheden.Lakheden
+[2016.12.08-12.34.45:966][967]LogStaticMesh:Warning: Lakheden has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2016.12.08-12.34.47:106][967]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2016.12.08-12.34.47:106][967]FBXImport:Warning: Warning Lakheden has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2016.12.08-12.34.56:048][473]LogActorFactory: Actor Factory created Lakheden
+[2016.12.08-12.34.59:227][813]LogActorFactory: Actor Factory created Lakheden
+[2016.12.08-12.36.37:790][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lakheden)
+[2016.12.08-12.36.46:078][377]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2016.12.08-12.36.58:966][853]MapCheck: New page: Map Check
+[2016.12.08-12.36.58:984][853]Cmd: MAP REBUILD ALLVISIBLE
+[2016.12.08-12.36.58:984][853]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.12.08-12.36.58:991][853]LightingResults: New page: Lighting Build - Dec 8, 2016, 2:36:58 PM
+[2016.12.08-12.36.59:004][853]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.08-12.36.59:005][853]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.08-12.36.59:005][853]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.08-12.36.59:005][853]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.08-12.36.59:005][853]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2016.12.08-12.37.03:509][853]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.12.08-12.37.03:509][853]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.08-12.37.03:509][853]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.08-12.37.03:509][853]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.08-12.37.03:509][853]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.08-12.37.03:509][853]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.08-12.37.03:891][853]LogEditorBuildUtils: Build time 0:04
+[2016.12.08-12.37.03:902][853]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Lakheden2, compiling. 
+[2016.12.08-12.37.03:908][853]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Lakheden2, compiling. 
+[2016.12.08-12.37.03:929][854]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer screw-thread, compiling. 
+[2016.12.08-12.37.03:936][854]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer screw-thread, compiling. 
+[2016.12.08-12.37.03:961][855]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer metal, compiling. 
+[2016.12.08-12.37.03:968][855]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer metal, compiling. 
+[2016.12.08-12.37.03:982][856]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer cord, compiling. 
+[2016.12.08-12.37.03:988][856]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer cord, compiling. 
+[2016.12.08-12.37.04:002][857]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer glass, compiling. 
+[2016.12.08-12.37.04:009][857]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer glass, compiling. 
+[2016.12.08-12.37.04:023][858]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Alu_mat, compiling. 
+[2016.12.08-12.37.04:029][858]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Alu_mat, compiling. 
+[2016.12.08-12.37.04:044][859]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer pin, compiling. 
+[2016.12.08-12.37.04:050][859]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer pin, compiling. 
+[2016.12.08-12.37.04:065][860]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer thread, compiling. 
+[2016.12.08-12.37.04:071][860]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer thread, compiling. 
+[2016.12.08-12.37.11:284][265]LightingResults:Warning: Warning Lakheden Object has overlapping UVs.
+[2016.12.08-12.37.11:284][265]LightingResults: Info Lakheden Lightmap UV are overlapping by 23.4%. Please adjust content - Enable Error Coloring to visualize.
+[2016.12.08-12.37.16:897][822]Job is a success!
+[2016.12.08-12.37.16:947][823]LogMaterial:Warning: Material /Game/FbxAssets/Lights/Lakheden2.Lakheden2 needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-12.37.16:950][823]LogMaterial: Missing cached shader map for material Lakheden2, compiling. 
+[2016.12.08-12.37.16:968][823]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-12.37.16:968][823]LogMaterial:Warning: Material /Game/FbxAssets/Lights/screw-thread.screw-thread needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-12.37.16:971][823]LogMaterial: Missing cached shader map for material screw-thread, compiling. 
+[2016.12.08-12.37.16:990][823]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-12.37.16:991][823]LogMaterial:Warning: Material /Game/FbxAssets/Lights/metal.metal needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-12.37.16:993][823]LogMaterial: Missing cached shader map for material metal, compiling. 
+[2016.12.08-12.37.17:013][823]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-12.37.17:013][823]LogMaterial:Warning: Material /Game/FbxAssets/Lights/cord.cord needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-12.37.17:016][823]LogMaterial: Missing cached shader map for material cord, compiling. 
+[2016.12.08-12.37.17:035][823]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-12.37.17:035][823]LogMaterial:Warning: Material /Game/FbxAssets/Lights/glass.glass needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-12.37.17:038][823]LogMaterial: Missing cached shader map for material glass, compiling. 
+[2016.12.08-12.37.17:058][823]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-12.37.17:058][823]LogMaterial:Warning: Material /Game/FbxAssets/Lights/Alu_mat.Alu_mat needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-12.37.17:060][823]LogMaterial: Missing cached shader map for material Alu_mat, compiling. 
+[2016.12.08-12.37.17:080][823]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-12.37.17:080][823]LogMaterial:Warning: Material /Game/FbxAssets/Lights/pin.pin needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-12.37.17:083][823]LogMaterial: Missing cached shader map for material pin, compiling. 
+[2016.12.08-12.37.17:104][823]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-12.37.17:104][823]LogMaterial:Warning: Material /Game/FbxAssets/Lights/thread.thread needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-12.37.17:107][823]LogMaterial: Missing cached shader map for material thread, compiling. 
+[2016.12.08-12.37.17:126][823]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-12.37.17:287][823]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.12.08-12.37.17:287][823]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.12.08-12.37.17:287][823]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.12.08-12.37.17:287][823]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.12.08-12.37.17:287][823]LogTexture:Display: Building textures: ShadowMapTexture2D_6 (G8)
+[2016.12.08-12.37.17:467][823]LogStaticLightingSystem: Illumination: 18.4 sec (150 ms encoding lightmaps, 2 ms encoding shadowmaps)
+[2016.12.08-12.37.17:467][823]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 4 textures
+[2016.12.08-12.37.17:467][823]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2016.12.08-12.37.17:510][823]DumpUnbuiltLightIteractions
+[2016.12.08-12.37.17:510][823]Lights with unbuilt interactions: 0
+[2016.12.08-12.37.17:510][823]
+[2016.12.08-12.37.17:510][823]Primitives with unbuilt interactions: 0
+[2016.12.08-12.37.17:519][824]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.08-12.37.17:520][824]MapCheck: New page: Untitled_1 - Dec 8, 2016, 2:37:17 PM
+[2016.12.08-12.37.18:106][824]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 586.161ms to complete.
+[2016.12.08-12.37.44:668][105]MapCheck: New page: Map Check
+[2016.12.08-12.37.44:697][105]Cmd: MAP REBUILD ALLVISIBLE
+[2016.12.08-12.37.44:697][105]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.12.08-12.37.44:710][105]LightingResults: New page: Lighting Build - Dec 8, 2016, 2:37:44 PM
+[2016.12.08-12.37.44:716][105]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.08-12.37.44:717][105]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.08-12.37.44:717][105]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.08-12.37.44:718][105]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.08-12.37.44:718][105]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2016.12.08-12.37.49:222][105]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.12.08-12.37.49:222][105]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.08-12.37.49:222][105]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.08-12.37.49:222][105]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.08-12.37.49:222][105]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.08-12.37.49:222][105]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.08-12.37.49:301][105]LogEditorBuildUtils: Build time 0:04
+[2016.12.08-12.37.49:316][105]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Lakheden2, compiling. 
+[2016.12.08-12.37.49:323][105]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Lakheden2, compiling. 
+[2016.12.08-12.37.49:343][106]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer screw-thread, compiling. 
+[2016.12.08-12.37.49:350][106]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer screw-thread, compiling. 
+[2016.12.08-12.37.49:374][107]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer metal, compiling. 
+[2016.12.08-12.37.49:382][107]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer metal, compiling. 
+[2016.12.08-12.37.49:397][108]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer cord, compiling. 
+[2016.12.08-12.37.49:404][108]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer cord, compiling. 
+[2016.12.08-12.37.49:423][109]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer glass, compiling. 
+[2016.12.08-12.37.49:430][109]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer glass, compiling. 
+[2016.12.08-12.37.49:455][110]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Alu_mat, compiling. 
+[2016.12.08-12.37.49:463][110]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Alu_mat, compiling. 
+[2016.12.08-12.37.49:481][111]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer pin, compiling. 
+[2016.12.08-12.37.49:487][111]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer pin, compiling. 
+[2016.12.08-12.37.49:506][112]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer thread, compiling. 
+[2016.12.08-12.37.49:512][112]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer thread, compiling. 
+[2016.12.08-12.37.55:590][431]LightingResults:Warning: Warning Lakheden Object has overlapping UVs.
+[2016.12.08-12.37.55:590][431]LightingResults: Info Lakheden Lightmap UV are overlapping by 23.4%. Please adjust content - Enable Error Coloring to visualize.
+[2016.12.08-12.38.01:547][ 12]Job is a success!
+[2016.12.08-12.38.01:667][ 13]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.12.08-12.38.01:667][ 13]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.12.08-12.38.01:667][ 13]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.12.08-12.38.01:667][ 13]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.12.08-12.38.01:667][ 13]LogTexture:Display: Building textures: ShadowMapTexture2D_7 (G8)
+[2016.12.08-12.38.01:681][ 13]Lightmass on 3SE-SPEL-64: 9.39 sec total, 1.21 sec importing, 518 ms setup, 556 ms photons, 7.08 sec processing, 0 ms extra exporting [19/19 mappings]. Threads: 28.3 sec total, 8.29 sec processing.
+[2016.12.08-12.38.01:692][ 13]LogStaticLightingSystem: Illumination: 16.9 sec (67 ms encoding lightmaps, 2 ms encoding shadowmaps)
+[2016.12.08-12.38.01:692][ 13]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 4 textures
+[2016.12.08-12.38.01:692][ 13]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2016.12.08-12.38.02:223][ 13]DumpUnbuiltLightIteractions
+[2016.12.08-12.38.02:223][ 13]Lights with unbuilt interactions: 0
+[2016.12.08-12.38.02:223][ 13]
+[2016.12.08-12.38.02:223][ 13]Primitives with unbuilt interactions: 0
+[2016.12.08-12.38.02:234][ 14]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.08-12.38.02:234][ 14]MapCheck: New page: Untitled_1 - Dec 8, 2016, 2:38:02 PM
+[2016.12.08-12.38.02:284][ 14]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 50.198ms to complete.
+[2016.12.08-12.38.21:421][511]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-12.38.21:429][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-12.38.21:429][511]PIE: New page: PIE session: Untitled_1 (Dec 8, 2016, 2:38:21 PM)
+[2016.12.08-12.38.21:429][511]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.12.08-12.38.21:432][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003041s)
+[2016.12.08-12.38.21:433][511]LogAIModule: Creating AISystem for world Untitled
+[2016.12.08-12.38.21:433][511]LogPlayLevel: PIE: World Init took: (0.000508s)
+[2016.12.08-12.38.21:433][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.003704s)
+[2016.12.08-12.38.21:445][511]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-12.38.21:449][511]LogInit: FAudioDevice initialized.
+[2016.12.08-12.38.21:480][511]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-12.38.21:481][511]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.12.08-13.38.21
+[2016.12.08-12.38.21:481][511]LogWorld: Bringing up level for play took: 0.000837
+[2016.12.08-12.38.21:484][511]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.413
+[2016.12.08-12.39.02:238][343]MapCheck: New page: Map Check
+[2016.12.08-12.39.02:258][343]Cmd: MAP REBUILD ALLVISIBLE
+[2016.12.08-12.39.02:259][343]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.12.08-12.39.02:269][343]LightingResults: New page: Lighting Build - Dec 8, 2016, 2:39:02 PM
+[2016.12.08-12.39.02:274][343]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.08-12.39.02:275][343]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.08-12.39.02:275][343]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.08-12.39.02:276][343]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.08-12.39.02:276][343]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2016.12.08-12.39.06:780][343]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.12.08-12.39.06:780][343]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.08-12.39.06:780][343]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.08-12.39.06:780][343]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.08-12.39.06:780][343]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.08-12.39.06:780][343]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.08-12.39.06:906][343]LogEditorBuildUtils: Build time 0:04
+[2016.12.08-12.39.11:015][693]LightingResults:Warning: Warning Lakheden Object has overlapping UVs.
+[2016.12.08-12.39.11:015][693]LightingResults: Info Lakheden Lightmap UV are overlapping by 23.4%. Please adjust content - Enable Error Coloring to visualize.
+[2016.12.08-12.39.20:273][935]Job is a success!
+[2016.12.08-12.39.20:405][936]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.12.08-12.39.20:405][936]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.12.08-12.39.20:405][936]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.12.08-12.39.20:405][936]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.12.08-12.39.20:405][936]LogTexture:Display: Building textures: ShadowMapTexture2D_8 (G8)
+[2016.12.08-12.39.20:405][936]LogTexture:Display: Building textures: ShadowMapTexture2D_9 (G8)
+[2016.12.08-12.39.20:417][936]Lightmass on 3SE-SPEL-64: 13.0 sec total, 1.19 sec importing, 468 ms setup, 535 ms photons, 10.8 sec processing, 0 ms extra exporting [19/19 mappings]. Threads: 43.2 sec total, 8.29 sec processing.
+[2016.12.08-12.39.20:431][936]LogStaticLightingSystem: Illumination: 18.1 sec (65 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2016.12.08-12.39.20:431][936]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 4 textures
+[2016.12.08-12.39.20:431][936]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.12.08-12.39.20:781][936]DumpUnbuiltLightIteractions
+[2016.12.08-12.39.20:781][936]Lights with unbuilt interactions: 0
+[2016.12.08-12.39.20:781][936]
+[2016.12.08-12.39.20:781][936]Primitives with unbuilt interactions: 0
+[2016.12.08-12.39.20:793][937]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.08-12.39.20:793][937]MapCheck: New page: Untitled_1 - Dec 8, 2016, 2:39:20 PM
+[2016.12.08-12.39.20:844][937]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 51.392ms to complete.
+[2016.12.08-12.39.29:567][974]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-12.39.29:575][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-12.39.29:575][974]PIE: New page: PIE session: Untitled_1 (Dec 8, 2016, 2:39:29 PM)
+[2016.12.08-12.39.29:575][974]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.12.08-12.39.29:578][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003037s)
+[2016.12.08-12.39.29:578][974]LogAIModule: Creating AISystem for world Untitled
+[2016.12.08-12.39.29:578][974]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2016.12.08-12.39.29:579][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.003727s)
+[2016.12.08-12.39.29:588][974]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-12.39.29:592][974]LogInit: FAudioDevice initialized.
+[2016.12.08-12.39.29:621][974]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-12.39.29:623][974]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.12.08-13.39.29
+[2016.12.08-12.39.29:623][974]LogWorld: Bringing up level for play took: 0.000847
+[2016.12.08-12.39.29:625][974]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.27
+[2016.12.08-12.41.02:619][938]MapCheck: New page: Map Check
+[2016.12.08-12.41.02:643][938]Cmd: MAP REBUILD ALLVISIBLE
+[2016.12.08-12.41.02:644][938]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.12.08-12.41.02:653][938]LightingResults: New page: Lighting Build - Dec 8, 2016, 2:41:02 PM
+[2016.12.08-12.41.02:659][938]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.08-12.41.02:660][938]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.08-12.41.02:660][938]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.08-12.41.02:661][938]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.08-12.41.02:661][938]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2016.12.08-12.41.07:174][938]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.12.08-12.41.07:174][938]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.08-12.41.07:174][938]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.08-12.41.07:174][938]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.08-12.41.07:174][938]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.08-12.41.07:174][938]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.08-12.41.07:321][938]LogEditorBuildUtils: Build time 0:04
+[2016.12.08-12.41.11:264][950]LightingResults:Warning: Warning Lakheden Object has overlapping UVs.
+[2016.12.08-12.41.11:264][950]LightingResults: Info Lakheden Lightmap UV are overlapping by 23.4%. Please adjust content - Enable Error Coloring to visualize.
+[2016.12.08-12.41.16:590][966]Job is a success!
+[2016.12.08-12.41.17:100][967]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.12.08-12.41.17:100][967]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.12.08-12.41.17:100][967]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.12.08-12.41.17:100][967]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.12.08-12.41.17:100][967]LogTexture:Display: Building textures: ShadowMapTexture2D_10 (G8)
+[2016.12.08-12.41.17:100][967]LogTexture:Display: Building textures: ShadowMapTexture2D_11 (G8)
+[2016.12.08-12.41.17:120][967]Lightmass on 3SE-SPEL-64: 9.32 sec total, 1.19 sec importing, 535 ms setup, 544 ms photons, 7.03 sec processing, 0 ms extra exporting [19/19 mappings]. Threads: 28.1 sec total, 7.59 sec processing.
+[2016.12.08-12.41.17:145][967]LogStaticLightingSystem: Illumination: 14.1 sec (66 ms encoding lightmaps, 17 ms encoding shadowmaps)
+[2016.12.08-12.41.17:145][967]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 4 textures
+[2016.12.08-12.41.17:145][967]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.12.08-12.41.17:175][967]DumpUnbuiltLightIteractions
+[2016.12.08-12.41.17:175][967]Lights with unbuilt interactions: 0
+[2016.12.08-12.41.17:175][967]
+[2016.12.08-12.41.17:175][967]Primitives with unbuilt interactions: 0
+[2016.12.08-12.41.17:184][968]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.08-12.41.17:184][968]MapCheck: New page: Untitled_1 - Dec 8, 2016, 2:41:17 PM
+[2016.12.08-12.41.17:235][968]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 50.839ms to complete.
+[2016.12.08-12.41.31:618][865]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-12.41.31:626][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-12.41.31:626][865]PIE: New page: PIE session: Untitled_1 (Dec 8, 2016, 2:41:31 PM)
+[2016.12.08-12.41.31:626][865]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.12.08-12.41.31:630][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003260s)
+[2016.12.08-12.41.31:630][865]LogAIModule: Creating AISystem for world Untitled
+[2016.12.08-12.41.31:630][865]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2016.12.08-12.41.31:630][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.003982s)
+[2016.12.08-12.41.31:641][865]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-12.41.31:645][865]LogInit: FAudioDevice initialized.
+[2016.12.08-12.41.31:670][865]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-12.41.31:672][865]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.12.08-13.41.31
+[2016.12.08-12.41.31:672][865]LogWorld: Bringing up level for play took: 0.000811
+[2016.12.08-12.41.31:674][865]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.229
+[2016.12.08-12.44.11:640][839]MapCheck: New page: Map Check
+[2016.12.08-12.44.11:650][839]Cmd: MAP REBUILD ALLVISIBLE
+[2016.12.08-12.44.11:650][839]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.12.08-12.44.11:660][839]LightingResults: New page: Lighting Build - Dec 8, 2016, 2:44:11 PM
+[2016.12.08-12.44.11:666][839]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.08-12.44.11:667][839]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.08-12.44.11:667][839]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.08-12.44.11:668][839]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.08-12.44.11:668][839]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2016.12.08-12.44.16:173][839]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.12.08-12.44.16:173][839]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.08-12.44.16:173][839]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.08-12.44.16:173][839]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.08-12.44.16:173][839]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.08-12.44.16:173][839]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.08-12.44.16:297][839]LogEditorBuildUtils: Build time 0:04
+[2016.12.08-12.44.20:368][195]LightingResults:Warning: Warning Lakheden Object has overlapping UVs.
+[2016.12.08-12.44.20:384][196]LightingResults: Info Lakheden Lightmap UV are overlapping by 23.4%. Please adjust content - Enable Error Coloring to visualize.
+[2016.12.08-12.44.26:806][836]Job is a success!
+[2016.12.08-12.44.26:933][837]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.12.08-12.44.26:933][837]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.12.08-12.44.26:933][837]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.12.08-12.44.26:933][837]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.12.08-12.44.26:933][837]LogTexture:Display: Building textures: ShadowMapTexture2D_12 (G8)
+[2016.12.08-12.44.26:933][837]LogTexture:Display: Building textures: ShadowMapTexture2D_13 (G8)
+[2016.12.08-12.44.26:956][837]Lightmass on 3SE-SPEL-64: 10.1 sec total, 1.22 sec importing, 488 ms setup, 558 ms photons, 7.88 sec processing, 0 ms extra exporting [19/19 mappings]. Threads: 31.4 sec total, 9.05 sec processing.
+[2016.12.08-12.44.26:960][837]LogStaticLightingSystem: Illumination: 15.2 sec (66 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2016.12.08-12.44.26:960][837]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 4 textures
+[2016.12.08-12.44.26:960][837]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.12.08-12.44.27:175][837]DumpUnbuiltLightIteractions
+[2016.12.08-12.44.27:175][837]Lights with unbuilt interactions: 0
+[2016.12.08-12.44.27:175][837]
+[2016.12.08-12.44.27:175][837]Primitives with unbuilt interactions: 0
+[2016.12.08-12.44.27:188][838]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.08-12.44.27:188][838]MapCheck: New page: Untitled_1 - Dec 8, 2016, 2:44:27 PM
+[2016.12.08-12.44.27:278][838]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 89.877ms to complete.
+[2016.12.08-12.49.11:560][176]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/UnrealProjects/Fbx assets/Carpet/3x/kover.FBX)
+[2016.12.08-12.49.11:657][176]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.12.08-12.49.11:657][176]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.12.08-12.49.11:657][176]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.12.08-12.49.11:657][176]LogFbx: ItemName: Model, ItemCount : 1
+[2016.12.08-12.49.11:657][176]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.12.08-12.49.11:657][176]LogFbx: ItemName: Material, ItemCount : 2
+[2016.12.08-12.49.11:657][176]LogFbx: ItemName: LayeredTexture, ItemCount : 2
+[2016.12.08-12.49.11:657][176]LogFbx: ItemName: Texture, ItemCount : 6
+[2016.12.08-12.49.11:657][176]LogFbx: ItemName: CollectionExclusive, ItemCount : 1
+[2016.12.08-12.49.11:657][176]LogFbx: ItemName: Video, ItemCount : 2
+[2016.12.08-12.49.11:661][176]LogFbx: Loading FBX Scene from D:/UnrealProjects/Fbx assets/Carpet/3x/kover.FBX
+[2016.12.08-12.49.11:981][176]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.08-12.49.22:988][176]LogFbx: Loading FBX Scene from D:/UnrealProjects/Fbx assets/Carpet/3x/kover.FBX
+[2016.12.08-12.49.23:309][176]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.08-12.49.23:331][176]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Carpets/qsovili130G'
+[2016.12.08-12.49.23:331][176]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Carpets/qsovili130G'
+[2016.12.08-12.49.23:336][176]LogMaterial: Missing cached shader map for material qsovili130G, compiling. 
+[2016.12.08-12.49.23:351][176]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Carpets/qw'
+[2016.12.08-12.49.23:351][176]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Carpets/qw'
+[2016.12.08-12.49.23:355][176]LogMaterial: Missing cached shader map for material qw, compiling. 
+[2016.12.08-12.49.24:032][176]LogStaticMesh: Building static mesh kover...
+[2016.12.08-12.49.32:256][176]LogStaticMesh: Built static mesh [8.22s] /Game/FbxAssets/Decorations/Carpets/kover.kover
+[2016.12.08-12.49.33:894][176]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2016.12.08-12.49.39:540][535]LogActorFactory: Actor Factory created kover
+[2016.12.08-12.49.40:769][677]LogActorFactory: Actor Factory created kover
+[2016.12.08-12.49.54:567][297]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/UnrealProjects/Fbx assets/Carpet/maps/111.jpg)
+[2016.12.08-12.49.54:742][297]LogTexture:Display: Building textures: 111 (AutoDXT)
+[2016.12.08-12.50.01:985][297]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/UnrealProjects/Fbx assets/Carpet/maps/222.jpg)
+[2016.12.08-12.50.02:147][297]LogTexture:Display: Building textures: 222 (AutoDXT)
+[2016.12.08-12.50.22:369][546]LogMaterial: Missing cached shader map for material 222_Mat, compiling. 
+[2016.12.08-12.50.24:538][703]LogMaterial: Missing cached shader map for material 111_Mat, compiling. 
+[2016.12.08-12.51.56:123][635]MapCheck: New page: Map Check
+[2016.12.08-12.51.56:148][635]Cmd: MAP REBUILD ALLVISIBLE
+[2016.12.08-12.51.56:148][635]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.12.08-12.51.56:158][635]LightingResults: New page: Lighting Build - Dec 8, 2016, 2:51:56 PM
+[2016.12.08-12.51.56:163][635]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.08-12.51.56:164][635]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.08-12.51.56:164][635]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.08-12.51.56:164][635]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.08-12.51.56:164][635]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2016.12.08-12.52.00:668][635]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.12.08-12.52.00:669][635]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.08-12.52.00:669][635]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.08-12.52.00:669][635]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.08-12.52.00:669][635]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.08-12.52.00:669][635]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.08-12.52.02:461][635]LogEditorBuildUtils: Build time 0:06
+[2016.12.08-12.52.02:466][635]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 111_Mat, compiling. 
+[2016.12.08-12.52.02:472][635]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 111_Mat, compiling. 
+[2016.12.08-12.52.02:496][636]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 222_Mat, compiling. 
+[2016.12.08-12.52.02:503][636]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 222_Mat, compiling. 
+[2016.12.08-12.52.10:498][279]LightingResults:Warning: Warning Lakheden Object has overlapping UVs.
+[2016.12.08-12.52.10:508][280]LightingResults: Info Lakheden Lightmap UV are overlapping by 23.4%. Please adjust content - Enable Error Coloring to visualize.
+[2016.12.08-12.52.14:362][653]Job is a success!
+[2016.12.08-12.52.14:413][654]LogMaterial:Warning: Material /Game/FbxAssets/Decorations/Carpets/111_Mat.111_Mat needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-12.52.14:416][654]LogMaterial: Missing cached shader map for material 111_Mat, compiling. 
+[2016.12.08-12.52.14:435][654]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-12.52.14:435][654]LogMaterial:Warning: Material /Game/FbxAssets/Decorations/Carpets/222_Mat.222_Mat needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-12.52.14:439][654]LogMaterial: Missing cached shader map for material 222_Mat, compiling. 
+[2016.12.08-12.52.14:459][654]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-12.52.14:559][654]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.12.08-12.52.14:559][654]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.12.08-12.52.14:559][654]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.12.08-12.52.14:559][654]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.12.08-12.52.14:559][654]LogTexture:Display: Building textures: ShadowMapTexture2D_14 (G8)
+[2016.12.08-12.52.14:559][654]LogTexture:Display: Building textures: ShadowMapTexture2D_15 (G8)
+[2016.12.08-12.52.14:616][654]LogStaticLightingSystem: Illumination: 18.4 sec (75 ms encoding lightmaps, 20 ms encoding shadowmaps)
+[2016.12.08-12.52.14:616][654]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 4 textures
+[2016.12.08-12.52.14:616][654]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.12.08-12.52.14:675][654]DumpUnbuiltLightIteractions
+[2016.12.08-12.52.14:675][654]Lights with unbuilt interactions: 0
+[2016.12.08-12.52.14:675][654]
+[2016.12.08-12.52.14:675][654]Primitives with unbuilt interactions: 0
+[2016.12.08-12.52.14:686][655]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.08-12.52.14:686][655]MapCheck: New page: Untitled_1 - Dec 8, 2016, 2:52:14 PM
+[2016.12.08-12.52.14:787][655]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 101.289ms to complete.
+[2016.12.08-12.52.17:564][872]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-12.52.17:573][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-12.52.17:573][872]PIE: New page: PIE session: Untitled_1 (Dec 8, 2016, 2:52:17 PM)
+[2016.12.08-12.52.17:573][872]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.12.08-12.52.17:576][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003220s)
+[2016.12.08-12.52.17:576][872]LogAIModule: Creating AISystem for world Untitled
+[2016.12.08-12.52.17:576][872]LogPlayLevel: PIE: World Init took: (0.000484s)
+[2016.12.08-12.52.17:577][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.003882s)
+[2016.12.08-12.52.17:669][872]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-12.52.17:706][872]LogInit: FAudioDevice initialized.
+[2016.12.08-12.52.17:889][872]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-12.52.17:891][872]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.12.08-13.52.17
+[2016.12.08-12.52.17:891][872]LogWorld: Bringing up level for play took: 0.000939
+[2016.12.08-12.52.17:893][872]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.05
+[2016.12.08-12.53.17:155][758]MapCheck: New page: Map Check
+[2016.12.08-12.53.17:184][758]Cmd: MAP REBUILD ALLVISIBLE
+[2016.12.08-12.53.17:184][758]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.12.08-12.53.17:193][758]LightingResults: New page: Lighting Build - Dec 8, 2016, 2:53:17 PM
+[2016.12.08-12.53.17:198][758]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.08-12.53.17:199][758]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.08-12.53.17:199][758]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.08-12.53.17:200][758]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.08-12.53.17:200][758]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2016.12.08-12.53.21:704][758]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.12.08-12.53.21:704][758]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.08-12.53.21:704][758]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.08-12.53.21:704][758]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.08-12.53.21:704][758]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.08-12.53.21:704][758]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.08-12.53.21:808][758]LogEditorBuildUtils: Build time 0:04
+[2016.12.08-12.53.21:818][758]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 111_Mat, compiling. 
+[2016.12.08-12.53.21:825][758]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 111_Mat, compiling. 
+[2016.12.08-12.53.21:846][759]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 222_Mat, compiling. 
+[2016.12.08-12.53.21:852][759]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 222_Mat, compiling. 
+[2016.12.08-12.53.28:340][181]LightingResults:Warning: Warning Lakheden Object has overlapping UVs.
+[2016.12.08-12.53.28:340][181]LightingResults: Info Lakheden Lightmap UV are overlapping by 23.4%. Please adjust content - Enable Error Coloring to visualize.
+[2016.12.08-12.53.34:318][775]Job is a success!
+[2016.12.08-12.53.34:457][776]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.12.08-12.53.34:457][776]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.12.08-12.53.34:457][776]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.12.08-12.53.34:457][776]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.12.08-12.53.34:457][776]LogTexture:Display: Building textures: ShadowMapTexture2D_16 (G8)
+[2016.12.08-12.53.34:457][776]LogTexture:Display: Building textures: ShadowMapTexture2D_17 (G8)
+[2016.12.08-12.53.34:466][776]Lightmass on 3SE-SPEL-64: 11.1 sec total, 1.59 sec importing, 849 ms setup, 603 ms photons, 8.07 sec processing, 0 ms extra exporting [20/20 mappings]. Threads: 31.9 sec total, 15.7 sec processing.
+[2016.12.08-12.53.34:483][776]LogStaticLightingSystem: Illumination: 17.2 sec (76 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2016.12.08-12.53.34:483][776]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 4 textures
+[2016.12.08-12.53.34:483][776]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.12.08-12.53.34:707][776]DumpUnbuiltLightIteractions
+[2016.12.08-12.53.34:707][776]Lights with unbuilt interactions: 0
+[2016.12.08-12.53.34:707][776]
+[2016.12.08-12.53.34:707][776]Primitives with unbuilt interactions: 0
+[2016.12.08-12.53.34:718][777]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.08-12.53.34:718][777]MapCheck: New page: Untitled_1 - Dec 8, 2016, 2:53:34 PM
+[2016.12.08-12.53.34:769][777]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 50.99ms to complete.
+[2016.12.08-12.53.41:868][597]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-12.53.41:876][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-12.53.41:876][597]PIE: New page: PIE session: Untitled_1 (Dec 8, 2016, 2:53:41 PM)
+[2016.12.08-12.53.41:876][597]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.12.08-12.53.41:879][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003346s)
+[2016.12.08-12.53.41:880][597]LogAIModule: Creating AISystem for world Untitled
+[2016.12.08-12.53.41:880][597]LogPlayLevel: PIE: World Init took: (0.000477s)
+[2016.12.08-12.53.41:880][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.003988s)
+[2016.12.08-12.53.41:891][597]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-12.53.41:895][597]LogInit: FAudioDevice initialized.
+[2016.12.08-12.53.41:921][597]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-12.53.41:923][597]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.12.08-13.53.41
+[2016.12.08-12.53.41:923][597]LogWorld: Bringing up level for play took: 0.000864
+[2016.12.08-12.53.41:925][597]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.023
+[2016.12.08-12.56.27:826][211]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/UnrealProjects/Fbx assets/Decorations/pictures.fbx)
+[2016.12.08-12.56.27:831][211]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.12.08-12.56.27:831][211]LogFbx: ItemName: NodeAttribute, ItemCount : 10
+[2016.12.08-12.56.27:831][211]LogFbx: ItemName: Geometry, ItemCount : 20
+[2016.12.08-12.56.27:831][211]LogFbx: ItemName: Model, ItemCount : 30
+[2016.12.08-12.56.27:831][211]LogFbx: ItemName: Material, ItemCount : 12
+[2016.12.08-12.56.27:835][211]LogFbx: Loading FBX Scene from D:/UnrealProjects/Fbx assets/Decorations/pictures.fbx
+[2016.12.08-12.56.27:849][211]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.08-12.56.37:612][211]LogFbx: Loading FBX Scene from D:/UnrealProjects/Fbx assets/Decorations/pictures.fbx
+[2016.12.08-12.56.37:625][211]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.08-12.56.37:628][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic10'
+[2016.12.08-12.56.37:628][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic10'
+[2016.12.08-12.56.37:636][211]LogMaterial: Missing cached shader map for material Pic10, compiling. 
+[2016.12.08-12.56.37:650][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Side_1'
+[2016.12.08-12.56.37:650][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Side_1'
+[2016.12.08-12.56.37:653][211]LogMaterial: Missing cached shader map for material Side_1, compiling. 
+[2016.12.08-12.56.37:668][211]LogFbx:Warning: Triangulating static mesh Canvas10
+[2016.12.08-12.56.37:670][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Metal'
+[2016.12.08-12.56.37:670][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Metal'
+[2016.12.08-12.56.37:674][211]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2016.12.08-12.56.37:688][211]LogFbx:Warning: Triangulating static mesh Metal10
+[2016.12.08-12.56.37:710][211]LogFbx:Warning: Triangulating static mesh Metal9
+[2016.12.08-12.56.37:732][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic8_001'
+[2016.12.08-12.56.37:732][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic8_001'
+[2016.12.08-12.56.37:736][211]LogMaterial: Missing cached shader map for material Pic8_001, compiling. 
+[2016.12.08-12.56.37:751][211]LogFbx:Warning: Triangulating static mesh Canvas9
+[2016.12.08-12.56.37:752][211]LogFbx:Warning: Triangulating static mesh Metal8
+[2016.12.08-12.56.37:773][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic8'
+[2016.12.08-12.56.37:773][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic8'
+[2016.12.08-12.56.37:776][211]LogMaterial: Missing cached shader map for material Pic8, compiling. 
+[2016.12.08-12.56.37:791][211]LogFbx:Warning: Triangulating static mesh Canvas8
+[2016.12.08-12.56.37:792][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic7'
+[2016.12.08-12.56.37:792][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic7'
+[2016.12.08-12.56.37:796][211]LogMaterial: Missing cached shader map for material Pic7, compiling. 
+[2016.12.08-12.56.37:810][211]LogFbx:Warning: Triangulating static mesh Canvas7
+[2016.12.08-12.56.37:811][211]LogFbx:Warning: Triangulating static mesh Metal7
+[2016.12.08-12.56.37:832][211]LogFbx:Warning: Triangulating static mesh Metal6
+[2016.12.08-12.56.37:856][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic6'
+[2016.12.08-12.56.37:856][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic6'
+[2016.12.08-12.56.37:860][211]LogMaterial: Missing cached shader map for material Pic6, compiling. 
+[2016.12.08-12.56.37:876][211]LogFbx:Warning: Triangulating static mesh Canvas6
+[2016.12.08-12.56.37:877][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic5'
+[2016.12.08-12.56.37:877][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic5'
+[2016.12.08-12.56.37:881][211]LogMaterial: Missing cached shader map for material Pic5, compiling. 
+[2016.12.08-12.56.37:897][211]LogFbx:Warning: Triangulating static mesh Canvas5
+[2016.12.08-12.56.37:898][211]LogFbx:Warning: Triangulating static mesh Metal5
+[2016.12.08-12.56.37:919][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic4'
+[2016.12.08-12.56.37:919][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic4'
+[2016.12.08-12.56.37:922][211]LogMaterial: Missing cached shader map for material Pic4, compiling. 
+[2016.12.08-12.56.37:946][211]LogFbx:Warning: Triangulating static mesh Canvas4
+[2016.12.08-12.56.37:947][211]LogFbx:Warning: Triangulating static mesh Metal4
+[2016.12.08-12.56.37:968][211]LogFbx:Warning: Triangulating static mesh Metal3
+[2016.12.08-12.56.37:988][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic3'
+[2016.12.08-12.56.37:988][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic3'
+[2016.12.08-12.56.37:992][211]LogMaterial: Missing cached shader map for material Pic3, compiling. 
+[2016.12.08-12.56.38:009][211]LogFbx:Warning: Triangulating static mesh Canvas3
+[2016.12.08-12.56.38:010][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic2'
+[2016.12.08-12.56.38:010][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic2'
+[2016.12.08-12.56.38:016][211]LogMaterial: Missing cached shader map for material Pic2, compiling. 
+[2016.12.08-12.56.38:032][211]LogFbx:Warning: Triangulating static mesh Canvas2
+[2016.12.08-12.56.38:033][211]LogFbx:Warning: Triangulating static mesh Metal2
+[2016.12.08-12.56.38:054][211]LogFbx:Warning: Triangulating static mesh Metal1
+[2016.12.08-12.56.38:076][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic1'
+[2016.12.08-12.56.38:076][211]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Pic1'
+[2016.12.08-12.56.38:081][211]LogMaterial: Missing cached shader map for material Pic1, compiling. 
+[2016.12.08-12.56.38:096][211]LogFbx:Warning: Triangulating static mesh Canvas1
+[2016.12.08-12.56.38:100][211]LogStaticMesh: Building static mesh pictures...
+[2016.12.08-12.56.38:140][211]LogStaticMesh: Built static mesh [0.04s] /Game/FbxAssets/Decorations/Walls/pictures.pictures
+[2016.12.08-12.56.38:145][211]LogStaticMesh:Warning: pictures has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2016.12.08-12.56.38:147][211]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2016.12.08-12.56.38:147][211]FBXImport:Warning: Warning pictures has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2016.12.08-12.56.48:155][479]LogActorFactory: Actor Factory created pictures
+[2016.12.08-12.56.49:480][565]LogActorFactory: Actor Factory created pictures
+[2016.12.08-12.56.50:720][591]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Table)
+[2016.12.08-12.57.13:942][580]Cmd: TRANSACTION UNDO
+[2016.12.08-12.57.13:942][580]LogEditorTransaction: Undo Set actor rotation
+[2016.12.08-12.57.16:602][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pictures)
+[2016.12.08-12.58.10:023][ 60]Cmd: TRANSACTION UNDO
+[2016.12.08-12.58.10:023][ 60]LogEditorTransaction: Undo Create Actors
+[2016.12.08-13.02.10:970][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/UnrealProjects/Fbx assets/Chicken.jpg)
+[2016.12.08-13.02.10:980][ 70]LogTexture:Display: Building textures: Chicken (BGRA8)
+[2016.12.08-13.02.11:026][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/UnrealProjects/Fbx assets/Kittens.jpg)
+[2016.12.08-13.02.11:034][ 70]LogTexture:Display: Building textures: Kittens (BGRA8)
+[2016.12.08-13.02.13:375][293]LogMaterial: Missing cached shader map for material Chicken_Mat, compiling. 
+[2016.12.08-13.02.13:403][293]LogMaterial: Missing cached shader map for material Kittens_Mat, compiling. 
+[2016.12.08-13.02.29:587][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pictures)
+[2016.12.08-13.02.30:162][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pictures)
+[2016.12.08-13.02.41:196][211]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-13.02.41:204][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-13.02.41:204][211]PIE: New page: PIE session: Untitled_1 (Dec 8, 2016, 3:02:41 PM)
+[2016.12.08-13.02.41:204][211]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.12.08-13.02.41:207][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003195s)
+[2016.12.08-13.02.41:208][211]LogAIModule: Creating AISystem for world Untitled
+[2016.12.08-13.02.41:208][211]LogPlayLevel: PIE: World Init took: (0.000466s)
+[2016.12.08-13.02.41:208][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.003818s)
+[2016.12.08-13.02.41:219][211]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-13.02.41:224][211]LogInit: FAudioDevice initialized.
+[2016.12.08-13.02.41:253][211]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-13.02.41:255][211]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.12.08-14.02.41
+[2016.12.08-13.02.41:255][211]LogWorld: Bringing up level for play took: 0.000840
+[2016.12.08-13.02.41:257][211]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.725
+[2016.12.08-13.04.46:492][804]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/UnrealProjects/Fbx assets/Piggy.jpg)
+[2016.12.08-13.04.46:523][804]LogTexture:Display: Building textures: Piggy (AutoDXT)
+[2016.12.08-13.04.47:013][804]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/UnrealProjects/Fbx assets/Teacup dog.jpg)
+[2016.12.08-13.04.47:023][804]LogTexture:Display: Building textures: Teacup_dog (AutoDXT)
+[2016.12.08-13.04.51:720][278]LogMaterial: Missing cached shader map for material Piggy_Mat, compiling. 
+[2016.12.08-13.04.51:747][278]LogMaterial: Missing cached shader map for material Teacup_dog_Mat, compiling. 
+[2016.12.08-13.06.08:752][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pictures)
+[2016.12.08-13.06.29:922][ 76]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-13.06.29:930][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-13.06.29:930][ 76]PIE: New page: PIE session: Untitled_1 (Dec 8, 2016, 3:06:29 PM)
+[2016.12.08-13.06.29:930][ 76]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.12.08-13.06.29:933][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002405s)
+[2016.12.08-13.06.29:933][ 76]LogAIModule: Creating AISystem for world Untitled
+[2016.12.08-13.06.29:933][ 76]LogPlayLevel: PIE: World Init took: (0.000458s)
+[2016.12.08-13.06.29:933][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.003023s)
+[2016.12.08-13.06.29:945][ 76]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-13.06.29:949][ 76]LogInit: FAudioDevice initialized.
+[2016.12.08-13.06.29:980][ 76]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-13.06.29:981][ 76]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.12.08-14.06.29
+[2016.12.08-13.06.29:981][ 76]LogWorld: Bringing up level for play took: 0.000924
+[2016.12.08-13.06.29:983][ 76]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.013
+[2016.12.08-13.06.46:863][ 82]Cmd: SELECT NONE
+[2016.12.08-13.06.48:741][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pictures)
+[2016.12.08-13.08.29:715][451]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/UnrealProjects/Fbx assets/Hyena.jpg)
+[2016.12.08-13.08.29:720][451]LogTexture:Display: Building textures: Hyena (BGRA8)
+[2016.12.08-13.08.32:966][779]LogMaterial: Missing cached shader map for material Hyena_Mat, compiling. 
+[2016.12.08-13.09.25:867][860]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/UnrealProjects/Fbx assets/Cute owl.jpg)
+[2016.12.08-13.09.25:882][860]LogTexture:Display: Building textures: Cute_owl (BGRA8)
+[2016.12.08-13.09.28:751][155]LogMaterial: Missing cached shader map for material Cute_owl_Mat, compiling. 
+[2016.12.08-13.11.03:186][408]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/UnrealProjects/Fbx assets/Lodjur.jpg)
+[2016.12.08-13.11.03:191][408]LogTexture:Display: Building textures: Lodjur (BGRA8)
+[2016.12.08-13.11.06:431][746]LogMaterial: Missing cached shader map for material Lodjur_Mat, compiling. 
+[2016.12.08-13.12.04:806][429]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/UnrealProjects/Fbx assets/Cute tiger.jpg)
+[2016.12.08-13.12.04:809][429]LogTexture:Display: Building textures: Cute_tiger (BGRA8)
+[2016.12.08-13.12.08:259][783]LogMaterial: Missing cached shader map for material Cute_tiger_Mat, compiling. 
+[2016.12.08-13.14.37:910][962]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/UnrealProjects/Fbx assets/Rhinos.jpg)
+[2016.12.08-13.14.37:918][962]LogTexture:Display: Building textures: Rhinos (BGRA8)
+[2016.12.08-13.14.39:915][151]LogMaterial: Missing cached shader map for material Rhinos_Mat, compiling. 
+[2016.12.08-13.17.37:700][531]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/UnrealProjects/Fbx assets/Antilop.jpg)
+[2016.12.08-13.17.37:712][531]LogTexture:Display: Building textures: Antilop (AutoDXT)
+[2016.12.08-13.17.40:285][741]LogMaterial: Missing cached shader map for material Antilop_Mat, compiling. 
+[2016.12.08-13.17.48:489][602]MapCheck: New page: Map Check
+[2016.12.08-13.17.48:513][602]Cmd: MAP REBUILD ALLVISIBLE
+[2016.12.08-13.17.48:513][602]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.12.08-13.17.48:524][602]LightingResults: New page: Lighting Build - Dec 8, 2016, 3:17:48 PM
+[2016.12.08-13.17.48:529][602]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.08-13.17.48:530][602]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.08-13.17.48:530][602]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.08-13.17.48:531][602]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.08-13.17.48:531][602]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2016.12.08-13.17.53:054][602]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.12.08-13.17.53:055][602]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.08-13.17.53:055][602]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.08-13.17.53:055][602]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.08-13.17.53:055][602]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.08-13.17.53:055][602]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.08-13.17.53:190][602]LogEditorBuildUtils: Build time 0:04
+[2016.12.08-13.17.53:196][602]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Side_1, compiling. 
+[2016.12.08-13.17.53:202][602]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Side_1, compiling. 
+[2016.12.08-13.17.53:223][603]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Teacup_dog_Mat, compiling. 
+[2016.12.08-13.17.53:231][603]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Teacup_dog_Mat, compiling. 
+[2016.12.08-13.17.53:251][604]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2016.12.08-13.17.53:257][604]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2016.12.08-13.17.53:273][605]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Chicken_Mat, compiling. 
+[2016.12.08-13.17.53:279][605]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Chicken_Mat, compiling. 
+[2016.12.08-13.17.53:296][606]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Kittens_Mat, compiling. 
+[2016.12.08-13.17.53:304][606]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Kittens_Mat, compiling. 
+[2016.12.08-13.17.53:321][607]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Piggy_Mat, compiling. 
+[2016.12.08-13.17.53:328][607]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Piggy_Mat, compiling. 
+[2016.12.08-13.17.53:346][608]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Antilop_Mat, compiling. 
+[2016.12.08-13.17.53:353][608]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Antilop_Mat, compiling. 
+[2016.12.08-13.17.53:368][609]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Hyena_Mat, compiling. 
+[2016.12.08-13.17.53:374][609]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Hyena_Mat, compiling. 
+[2016.12.08-13.17.53:480][610]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Cute_tiger_Mat, compiling. 
+[2016.12.08-13.17.53:487][610]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Cute_tiger_Mat, compiling. 
+[2016.12.08-13.17.53:503][611]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Rhinos_Mat, compiling. 
+[2016.12.08-13.17.53:510][611]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Rhinos_Mat, compiling. 
+[2016.12.08-13.17.53:528][612]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Lodjur_Mat, compiling. 
+[2016.12.08-13.17.53:536][612]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Lodjur_Mat, compiling. 
+[2016.12.08-13.17.53:555][613]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Cute_owl_Mat, compiling. 
+[2016.12.08-13.17.53:561][613]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Cute_owl_Mat, compiling. 
+[2016.12.08-13.18.05:211][321]LightingResults:Warning: Warning Lakheden Object has overlapping UVs.
+[2016.12.08-13.18.05:211][321]LightingResults: Info Lakheden Lightmap UV are overlapping by 23.4%. Please adjust content - Enable Error Coloring to visualize.
+[2016.12.08-13.18.08:502][616]Job is a success!
+[2016.12.08-13.18.08:548][617]LogMaterial:Warning: Material /Game/FbxAssets/Decorations/Walls/Side_1.Side_1 needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-13.18.08:550][617]LogMaterial: Missing cached shader map for material Side_1, compiling. 
+[2016.12.08-13.18.08:570][617]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-13.18.08:570][617]LogMaterial:Warning: Material /Game/FbxAssets/Decorations/Walls/Teacup_dog_Mat.Teacup_dog_Mat needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-13.18.08:573][617]LogMaterial: Missing cached shader map for material Teacup_dog_Mat, compiling. 
+[2016.12.08-13.18.08:592][617]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-13.18.08:592][617]LogMaterial:Warning: Material /Game/FbxAssets/Decorations/Walls/Metal.Metal needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-13.18.08:595][617]LogMaterial: Missing cached shader map for material Metal, compiling. 
+[2016.12.08-13.18.08:614][617]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-13.18.08:614][617]LogMaterial:Warning: Material /Game/FbxAssets/Decorations/Walls/Chicken_Mat.Chicken_Mat needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-13.18.08:617][617]LogMaterial: Missing cached shader map for material Chicken_Mat, compiling. 
+[2016.12.08-13.18.08:636][617]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-13.18.08:636][617]LogMaterial:Warning: Material /Game/FbxAssets/Decorations/Walls/Kittens_Mat.Kittens_Mat needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-13.18.08:639][617]LogMaterial: Missing cached shader map for material Kittens_Mat, compiling. 
+[2016.12.08-13.18.08:658][617]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-13.18.08:658][617]LogMaterial:Warning: Material /Game/FbxAssets/Decorations/Walls/Piggy_Mat.Piggy_Mat needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-13.18.08:661][617]LogMaterial: Missing cached shader map for material Piggy_Mat, compiling. 
+[2016.12.08-13.18.08:680][617]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-13.18.08:680][617]LogMaterial:Warning: Material /Game/FbxAssets/Decorations/Walls/Antilop_Mat.Antilop_Mat needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-13.18.08:683][617]LogMaterial: Missing cached shader map for material Antilop_Mat, compiling. 
+[2016.12.08-13.18.08:703][617]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-13.18.08:703][617]LogMaterial:Warning: Material /Game/FbxAssets/Decorations/Walls/Hyena_Mat.Hyena_Mat needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-13.18.08:706][617]LogMaterial: Missing cached shader map for material Hyena_Mat, compiling. 
+[2016.12.08-13.18.08:725][617]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-13.18.08:725][617]LogMaterial:Warning: Material /Game/FbxAssets/Decorations/Walls/Cute_tiger_Mat.Cute_tiger_Mat needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-13.18.08:728][617]LogMaterial: Missing cached shader map for material Cute_tiger_Mat, compiling. 
+[2016.12.08-13.18.08:746][617]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-13.18.08:746][617]LogMaterial:Warning: Material /Game/FbxAssets/Decorations/Walls/Rhinos_Mat.Rhinos_Mat needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-13.18.08:749][617]LogMaterial: Missing cached shader map for material Rhinos_Mat, compiling. 
+[2016.12.08-13.18.08:768][617]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-13.18.08:768][617]LogMaterial:Warning: Material /Game/FbxAssets/Decorations/Walls/Lodjur_Mat.Lodjur_Mat needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-13.18.08:771][617]LogMaterial: Missing cached shader map for material Lodjur_Mat, compiling. 
+[2016.12.08-13.18.08:790][617]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-13.18.08:790][617]LogMaterial:Warning: Material /Game/FbxAssets/Decorations/Walls/Cute_owl_Mat.Cute_owl_Mat needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-13.18.08:793][617]LogMaterial: Missing cached shader map for material Cute_owl_Mat, compiling. 
+[2016.12.08-13.18.08:813][617]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-13.18.08:970][617]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.12.08-13.18.08:970][617]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.12.08-13.18.08:970][617]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.12.08-13.18.08:970][617]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.12.08-13.18.08:970][617]LogTexture:Display: Building textures: ShadowMapTexture2D_18 (G8)
+[2016.12.08-13.18.08:970][617]LogTexture:Display: Building textures: ShadowMapTexture2D_19 (G8)
+[2016.12.08-13.18.09:066][617]LogStaticLightingSystem: Illumination: 20.5 sec (120 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2016.12.08-13.18.09:066][617]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 4 textures
+[2016.12.08-13.18.09:066][617]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.12.08-13.18.09:074][617]DumpUnbuiltLightIteractions
+[2016.12.08-13.18.09:074][617]Lights with unbuilt interactions: 0
+[2016.12.08-13.18.09:074][617]
+[2016.12.08-13.18.09:074][617]Primitives with unbuilt interactions: 0
+[2016.12.08-13.18.09:084][618]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.08-13.18.09:085][618]MapCheck: New page: Untitled_1 - Dec 8, 2016, 3:18:09 PM
+[2016.12.08-13.18.09:681][618]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 596.673ms to complete.
+[2016.12.08-13.18.49:766][719]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-13.18.49:774][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-13.18.49:774][719]PIE: New page: PIE session: Untitled_1 (Dec 8, 2016, 3:18:49 PM)
+[2016.12.08-13.18.49:774][719]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.12.08-13.18.49:777][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003166s)
+[2016.12.08-13.18.49:778][719]LogAIModule: Creating AISystem for world Untitled
+[2016.12.08-13.18.49:778][719]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2016.12.08-13.18.49:778][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.003896s)
+[2016.12.08-13.18.49:793][719]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-13.18.49:798][719]LogInit: FAudioDevice initialized.
+[2016.12.08-13.18.49:828][719]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-13.18.49:829][719]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.12.08-14.18.49
+[2016.12.08-13.18.49:830][719]LogWorld: Bringing up level for play took: 0.000912
+[2016.12.08-13.18.49:832][719]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.211
+[2016.12.08-13.19.16:343][885]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (indoor_plant_02_6_1_1+2)
+[2016.12.08-13.19.17:472][ 15]Cmd: EDIT COPY
+[2016.12.08-13.19.17:732][ 46]Cmd: EDIT PASTE
+[2016.12.08-13.19.41:797][851]MapCheck: New page: Map Check
+[2016.12.08-13.19.41:816][851]Cmd: MAP REBUILD ALLVISIBLE
+[2016.12.08-13.19.41:816][851]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.12.08-13.19.41:829][851]LightingResults: New page: Lighting Build - Dec 8, 2016, 3:19:41 PM
+[2016.12.08-13.19.41:843][851]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.08-13.19.41:844][851]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.08-13.19.41:844][851]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.08-13.19.41:845][851]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.08-13.19.41:845][851]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2016.12.08-13.19.46:358][851]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.12.08-13.19.46:358][851]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.08-13.19.46:358][851]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.08-13.19.46:358][851]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.08-13.19.46:358][851]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.08-13.19.46:358][851]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.08-13.19.46:462][851]LogEditorBuildUtils: Build time 0:04
+[2016.12.08-13.19.46:470][851]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Side_1, compiling. 
+[2016.12.08-13.19.46:476][851]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Side_1, compiling. 
+[2016.12.08-13.19.46:497][852]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Teacup_dog_Mat, compiling. 
+[2016.12.08-13.19.46:504][852]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Teacup_dog_Mat, compiling. 
+[2016.12.08-13.19.46:533][853]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2016.12.08-13.19.46:539][853]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2016.12.08-13.19.46:586][854]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Chicken_Mat, compiling. 
+[2016.12.08-13.19.46:593][854]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Chicken_Mat, compiling. 
+[2016.12.08-13.19.46:609][855]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Kittens_Mat, compiling. 
+[2016.12.08-13.19.46:615][855]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Kittens_Mat, compiling. 
+[2016.12.08-13.19.46:633][856]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Piggy_Mat, compiling. 
+[2016.12.08-13.19.46:641][856]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Piggy_Mat, compiling. 
+[2016.12.08-13.19.46:656][857]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Antilop_Mat, compiling. 
+[2016.12.08-13.19.46:663][857]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Antilop_Mat, compiling. 
+[2016.12.08-13.19.46:678][858]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Hyena_Mat, compiling. 
+[2016.12.08-13.19.46:685][858]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Hyena_Mat, compiling. 
+[2016.12.08-13.19.46:701][859]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Cute_tiger_Mat, compiling. 
+[2016.12.08-13.19.46:708][859]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Cute_tiger_Mat, compiling. 
+[2016.12.08-13.19.46:727][860]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Rhinos_Mat, compiling. 
+[2016.12.08-13.19.46:733][860]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Rhinos_Mat, compiling. 
+[2016.12.08-13.19.46:749][861]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Lodjur_Mat, compiling. 
+[2016.12.08-13.19.46:761][861]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Lodjur_Mat, compiling. 
+[2016.12.08-13.19.46:777][862]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Cute_owl_Mat, compiling. 
+[2016.12.08-13.19.46:783][862]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Cute_owl_Mat, compiling. 
+[2016.12.08-13.19.57:773][499]LightingResults:Warning: Warning Lakheden Object has overlapping UVs.
+[2016.12.08-13.19.57:773][499]LightingResults: Info Lakheden Lightmap UV are overlapping by 23.4%. Please adjust content - Enable Error Coloring to visualize.
+[2016.12.08-13.20.03:647][ 41]Job is a success!
+[2016.12.08-13.20.03:810][ 42]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.12.08-13.20.03:810][ 42]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.12.08-13.20.03:810][ 42]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.12.08-13.20.03:810][ 42]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.12.08-13.20.03:810][ 42]LogTexture:Display: Building textures: ShadowMapTexture2D_20 (G8)
+[2016.12.08-13.20.03:810][ 42]LogTexture:Display: Building textures: ShadowMapTexture2D_21 (G8)
+[2016.12.08-13.20.03:820][ 42]Lightmass on 3SE-SPEL-64: 12.8 sec total, 1.69 sec importing, 827 ms setup, 530 ms photons, 9.73 sec processing, 0 ms extra exporting [21/21 mappings]. Threads: 38.5 sec total, 18.3 sec processing.
+[2016.12.08-13.20.03:837][ 42]LogStaticLightingSystem: Illumination: 21.9 sec (92 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2016.12.08-13.20.03:837][ 42]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 4 textures
+[2016.12.08-13.20.03:837][ 42]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.12.08-13.20.04:361][ 42]DumpUnbuiltLightIteractions
+[2016.12.08-13.20.04:361][ 42]Lights with unbuilt interactions: 0
+[2016.12.08-13.20.04:361][ 42]
+[2016.12.08-13.20.04:361][ 42]Primitives with unbuilt interactions: 0
+[2016.12.08-13.20.04:372][ 43]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.08-13.20.04:373][ 43]MapCheck: New page: Untitled_1 - Dec 8, 2016, 3:20:04 PM
+[2016.12.08-13.20.04:423][ 43]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 50.634ms to complete.
+[2016.12.08-13.20.17:753][622]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-13.20.17:761][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-13.20.17:761][622]PIE: New page: PIE session: Untitled_1 (Dec 8, 2016, 3:20:17 PM)
+[2016.12.08-13.20.17:761][622]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.12.08-13.20.17:764][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003169s)
+[2016.12.08-13.20.17:764][622]LogAIModule: Creating AISystem for world Untitled
+[2016.12.08-13.20.17:765][622]LogPlayLevel: PIE: World Init took: (0.000474s)
+[2016.12.08-13.20.17:765][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.003800s)
+[2016.12.08-13.20.17:774][622]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-13.20.17:778][622]LogInit: FAudioDevice initialized.
+[2016.12.08-13.20.17:804][622]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-13.20.17:806][622]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2016.12.08-14.20.17
+[2016.12.08-13.20.17:806][622]LogWorld: Bringing up level for play took: 0.000909
+[2016.12.08-13.20.17:808][622]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.24
+[2016.12.08-13.23.32:332][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LivingRoom" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/LivingRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
