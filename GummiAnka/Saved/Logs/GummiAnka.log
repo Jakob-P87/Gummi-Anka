@@ -2603,3 +2603,356 @@ LogInit: Object subsystem initialized
 [2016.12.08-13.20.17:806][622]LogWorld: Bringing up level for play took: 0.000909
 [2016.12.08-13.20.17:808][622]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.24
 [2016.12.08-13.23.32:332][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LivingRoom" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/LivingRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.12.08-13.23.32:363][379]LogSavePackage: Save=20.79ms
+[2016.12.08-13.23.32:363][379]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/LivingRoomFB7886B440AA98963109039426DFA5C4.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/LivingRoom.umap'
+[2016.12.08-13.23.32:364][379]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/LivingRoom.umap
+[2016.12.08-13.23.32:378][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LivingRoom_BuiltData" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/LivingRoom_BuiltData.uasset" SILENT=true
+[2016.12.08-13.23.32:399][379]LogSavePackage: Save=20.20ms
+[2016.12.08-13.23.32:399][379]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/LivingRoom_BuiltData3713266A45DFFEA510AE84BDB348B7D6.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/LivingRoom_BuiltData.uasset'
+[2016.12.08-13.23.32:401][379]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/LivingRoom_BuiltData.uasset
+[2016.12.08-13.23.32:404][379]LogFileHelpers: Saving map 'LivingRoom' took 0.192
+[2016.12.08-13.26.59:550][ 77]Cmd: DELETE
+[2016.12.08-13.26.59:550][ 77]Cmd: ACTOR DELETE
+[2016.12.08-13.26.59:551][ 77]LogEditorActor: Deleted Actor: Brush
+[2016.12.08-13.26.59:564][ 77]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2016.12.08-13.27.00:500][185]Cmd: DELETE
+[2016.12.08-13.27.00:500][185]Cmd: ACTOR DELETE
+[2016.12.08-13.27.00:500][185]LogEditorActor: Deleted Actor: Brush
+[2016.12.08-13.27.00:513][185]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2016.12.08-13.27.11:687][509]MapCheck: New page: Map Check
+[2016.12.08-13.27.11:713][509]Cmd: MAP REBUILD ALLVISIBLE
+[2016.12.08-13.27.11:714][509]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.12.08-13.27.11:721][509]LightingResults: New page: Lighting Build - Dec 8, 2016, 3:27:11 PM
+[2016.12.08-13.27.11:726][509]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.08-13.27.11:727][509]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.08-13.27.11:727][509]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.08-13.27.11:728][509]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.08-13.27.11:728][509]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2016.12.08-13.27.16:538][509]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.12.08-13.27.16:538][509]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.08-13.27.16:538][509]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.08-13.27.16:538][509]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.08-13.27.16:538][509]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.08-13.27.16:538][509]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.08-13.27.16:669][509]LogEditorBuildUtils: Build time 0:04
+[2016.12.08-13.27.20:937][876]LightingResults:Warning: Warning Lakheden Object has overlapping UVs.
+[2016.12.08-13.27.20:937][876]LightingResults: Info Lakheden Lightmap UV are overlapping by 23.4%. Please adjust content - Enable Error Coloring to visualize.
+[2016.12.08-13.27.27:200][501]Job is a success!
+[2016.12.08-13.27.27:369][503]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.12.08-13.27.27:369][503]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.12.08-13.27.27:369][503]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.12.08-13.27.27:369][503]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.12.08-13.27.27:369][503]LogTexture:Display: Building textures: ShadowMapTexture2D_22 (G8)
+[2016.12.08-13.27.27:369][503]LogTexture:Display: Building textures: ShadowMapTexture2D_23 (G8)
+[2016.12.08-13.27.27:385][503]Lightmass on 3SE-SPEL-64: 10.2 sec total, 1.52 sec importing, 713 ms setup, 541 ms photons, 7.45 sec processing, 0 ms extra exporting [19/19 mappings]. Threads: 29.7 sec total, 13.8 sec processing.
+[2016.12.08-13.27.27:399][503]LogStaticLightingSystem: Illumination: 15.6 sec (86 ms encoding lightmaps, 14 ms encoding shadowmaps)
+[2016.12.08-13.27.27:399][503]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 4 textures
+[2016.12.08-13.27.27:399][503]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.12.08-13.27.27:539][503]DumpUnbuiltLightIteractions
+[2016.12.08-13.27.27:539][503]Lights with unbuilt interactions: 0
+[2016.12.08-13.27.27:539][503]
+[2016.12.08-13.27.27:539][503]Primitives with unbuilt interactions: 0
+[2016.12.08-13.27.27:552][504]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.08-13.27.27:552][504]MapCheck: New page: LivingRoom - Dec 8, 2016, 3:27:27 PM
+[2016.12.08-13.27.27:604][504]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 51.744ms to complete.
+[2016.12.08-13.41.01:958][ 66]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (indoor_plant_02_6_1_1+2)
+[2016.12.08-13.41.05:063][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sofa)
+[2016.12.08-13.41.09:026][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2016.12.08-13.41.12:608][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kover)
+[2016.12.08-13.41.18:481][991]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (indoor_plant_02_6_1_1+3)
+[2016.12.08-13.41.34:466][866]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (indoor_plant_02_6_1_1+2)
+[2016.12.08-13.41.53:302][ 41]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (indoor_plant_02_6_1_1+3)
+[2016.12.08-13.41.59:815][816]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (indoor_plant_02_6_1_1+2)
+[2016.12.08-13.42.02:448][127]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (indoor_plant_02_6_1_1+3)
+[2016.12.08-13.43.15:813][209]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-13.43.15:821][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-13.43.15:821][209]PIE: New page: PIE session: LivingRoom (Dec 8, 2016, 3:43:15 PM)
+[2016.12.08-13.43.15:821][209]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LivingRoom
+[2016.12.08-13.43.15:824][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002691s)
+[2016.12.08-13.43.15:824][209]LogAIModule: Creating AISystem for world LivingRoom
+[2016.12.08-13.43.15:824][209]LogPlayLevel: PIE: World Init took: (0.000501s)
+[2016.12.08-13.43.15:824][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LivingRoom.LivingRoom to /Game/UEDPIE_0_LivingRoom.LivingRoom (0.003343s)
+[2016.12.08-13.43.15:839][209]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-13.43.15:845][209]LogInit: FAudioDevice initialized.
+[2016.12.08-13.43.15:871][209]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-13.43.15:873][209]LogWorld: Bringing World /Game/UEDPIE_0_LivingRoom.LivingRoom up for play (max tick rate 0) at 2016.12.08-14.43.15
+[2016.12.08-13.43.15:873][209]LogWorld: Bringing up level for play took: 0.000956
+[2016.12.08-13.43.15:873][209]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.08-13.43.15:875][209]PIE: Info Play in editor start time for /Game/UEDPIE_0_LivingRoom -0.245
+[2016.12.08-13.43.33:111][244]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2016.12.08-13.43.35:965][582]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.12.08-13.43.38:366][845]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-13.43.38:374][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-13.43.38:374][845]PIE: New page: PIE session: LivingRoom (Dec 8, 2016, 3:43:38 PM)
+[2016.12.08-13.43.38:374][845]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LivingRoom
+[2016.12.08-13.43.38:376][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002072s)
+[2016.12.08-13.43.38:376][845]LogAIModule: Creating AISystem for world LivingRoom
+[2016.12.08-13.43.38:376][845]LogPlayLevel: PIE: World Init took: (0.000442s)
+[2016.12.08-13.43.38:376][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LivingRoom.LivingRoom to /Game/UEDPIE_0_LivingRoom.LivingRoom (0.002669s)
+[2016.12.08-13.43.38:386][845]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-13.43.38:390][845]LogInit: FAudioDevice initialized.
+[2016.12.08-13.43.38:418][845]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-13.43.38:420][845]LogWorld: Bringing World /Game/UEDPIE_0_LivingRoom.LivingRoom up for play (max tick rate 0) at 2016.12.08-14.43.38
+[2016.12.08-13.43.38:421][845]LogWorld: Bringing up level for play took: 0.000935
+[2016.12.08-13.43.38:423][845]PIE: Info Play in editor start time for /Game/UEDPIE_0_LivingRoom 0.309
+[2016.12.08-13.44.19:344][696]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2016.12.08-13.44.52:712][606]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2016.12.08-13.45.22:956][134]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2016.12.08-13.46.16:837][335]Cmd: EDIT COPY
+[2016.12.08-13.46.17:044][357]Cmd: EDIT PASTE
+[2016.12.08-13.46.30:792][936]Cmd: EDCALLBACK SURFPROPS
+[2016.12.08-13.46.33:470][253]MapCheck: New page: Map Check
+[2016.12.08-13.46.33:493][253]Cmd: MAP REBUILD ALLVISIBLE
+[2016.12.08-13.46.33:493][253]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.12.08-13.46.33:505][253]LightingResults: New page: Lighting Build - Dec 8, 2016, 3:46:33 PM
+[2016.12.08-13.46.33:527][253]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.08-13.46.33:528][253]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.08-13.46.33:528][253]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.08-13.46.33:529][253]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.08-13.46.33:529][253]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2016.12.08-13.46.38:033][253]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.12.08-13.46.38:034][253]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.08-13.46.38:034][253]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.08-13.46.38:034][253]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.08-13.46.38:034][253]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.08-13.46.38:034][253]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.08-13.46.38:157][253]LogEditorBuildUtils: Build time 0:04
+[2016.12.08-13.46.43:391][719]LightingResults:Warning: Warning Lakheden Object has overlapping UVs.
+[2016.12.08-13.46.43:391][719]LightingResults: Info Lakheden Lightmap UV are overlapping by 23.4%. Please adjust content - Enable Error Coloring to visualize.
+[2016.12.08-13.46.48:677][225]Job is a success!
+[2016.12.08-13.46.48:851][226]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.12.08-13.46.48:851][226]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.12.08-13.46.48:851][226]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.12.08-13.46.48:851][226]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.12.08-13.46.48:851][226]LogTexture:Display: Building textures: ShadowMapTexture2D_24 (G8)
+[2016.12.08-13.46.48:851][226]LogTexture:Display: Building textures: ShadowMapTexture2D_25 (G8)
+[2016.12.08-13.46.48:862][226]Lightmass on 3SE-SPEL-64: 10.1 sec total, 1.94 sec importing, 775 ms setup, 630 ms photons, 6.80 sec processing, 0 ms extra exporting [35/35 mappings]. Threads: 27.2 sec total, 13.8 sec processing.
+[2016.12.08-13.46.48:878][226]LogStaticLightingSystem: Illumination: 15.3 sec (89 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2016.12.08-13.46.48:878][226]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 4 textures
+[2016.12.08-13.46.48:878][226]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.12.08-13.46.49:030][226]DumpUnbuiltLightIteractions
+[2016.12.08-13.46.49:030][226]Lights with unbuilt interactions: 0
+[2016.12.08-13.46.49:030][226]
+[2016.12.08-13.46.49:030][226]Primitives with unbuilt interactions: 0
+[2016.12.08-13.46.49:041][227]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.08-13.46.49:041][227]MapCheck: New page: LivingRoom - Dec 8, 2016, 3:46:49 PM
+[2016.12.08-13.46.49:990][227]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 949.561ms to complete.
+[2016.12.08-13.47.01:608][546]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-13.47.01:616][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-13.47.01:616][546]PIE: New page: PIE session: LivingRoom (Dec 8, 2016, 3:47:01 PM)
+[2016.12.08-13.47.01:616][546]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LivingRoom
+[2016.12.08-13.47.01:620][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003459s)
+[2016.12.08-13.47.01:620][546]LogAIModule: Creating AISystem for world LivingRoom
+[2016.12.08-13.47.01:620][546]LogPlayLevel: PIE: World Init took: (0.000482s)
+[2016.12.08-13.47.01:620][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LivingRoom.LivingRoom to /Game/UEDPIE_0_LivingRoom.LivingRoom (0.004100s)
+[2016.12.08-13.47.01:630][546]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-13.47.01:634][546]LogInit: FAudioDevice initialized.
+[2016.12.08-13.47.01:662][546]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-13.47.01:664][546]LogWorld: Bringing World /Game/UEDPIE_0_LivingRoom.LivingRoom up for play (max tick rate 0) at 2016.12.08-14.47.01
+[2016.12.08-13.47.01:665][546]LogWorld: Bringing up level for play took: 0.000936
+[2016.12.08-13.47.01:667][546]PIE: Info Play in editor start time for /Game/UEDPIE_0_LivingRoom -0.4
+[2016.12.08-13.48.44:235][491]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2016.12.08-13.49.17:745][360]Cmd: EDIT COPY
+[2016.12.08-13.49.17:940][383]Cmd: EDIT PASTE
+[2016.12.08-13.50.12:118][820]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2016.12.08-13.52.01:337][420]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2016.12.08-13.53.16:689][203]MapCheck: New page: Map Check
+[2016.12.08-13.53.16:704][203]Cmd: MAP REBUILD ALLVISIBLE
+[2016.12.08-13.53.16:705][203]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.12.08-13.53.16:716][203]LightingResults: New page: Lighting Build - Dec 8, 2016, 3:53:16 PM
+[2016.12.08-13.53.16:723][203]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.08-13.53.16:724][203]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.08-13.53.16:724][203]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.08-13.53.16:724][203]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.08-13.53.16:724][203]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2016.12.08-13.53.21:230][203]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.12.08-13.53.21:231][203]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.08-13.53.21:231][203]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.08-13.53.21:231][203]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.08-13.53.21:231][203]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.08-13.53.21:231][203]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.08-13.53.21:361][203]LogEditorBuildUtils: Build time 0:04
+[2016.12.08-13.53.26:440][653]LightingResults:Warning: Warning Lakheden Object has overlapping UVs.
+[2016.12.08-13.53.26:440][653]LightingResults: Info Lakheden Lightmap UV are overlapping by 23.4%. Please adjust content - Enable Error Coloring to visualize.
+[2016.12.08-13.53.31:918][195]Job is a success!
+[2016.12.08-13.53.32:102][197]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.12.08-13.53.32:102][197]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.12.08-13.53.32:102][197]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.12.08-13.53.32:102][197]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.12.08-13.53.32:103][197]LogTexture:Display: Building textures: ShadowMapTexture2D_26 (G8)
+[2016.12.08-13.53.32:103][197]LogTexture:Display: Building textures: ShadowMapTexture2D_27 (G8)
+[2016.12.08-13.53.32:113][197]Lightmass on 3SE-SPEL-64: 10.2 sec total, 1.51 sec importing, 753 ms setup, 509 ms photons, 7.45 sec processing, 0 ms extra exporting [35/35 mappings]. Threads: 29.7 sec total, 14.4 sec processing.
+[2016.12.08-13.53.32:137][197]LogStaticLightingSystem: Illumination: 15.3 sec (93 ms encoding lightmaps, 14 ms encoding shadowmaps)
+[2016.12.08-13.53.32:137][197]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 4 textures
+[2016.12.08-13.53.32:137][197]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.12.08-13.53.32:230][197]DumpUnbuiltLightIteractions
+[2016.12.08-13.53.32:230][197]Lights with unbuilt interactions: 0
+[2016.12.08-13.53.32:230][197]
+[2016.12.08-13.53.32:230][197]Primitives with unbuilt interactions: 0
+[2016.12.08-13.53.32:241][198]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.08-13.53.32:241][198]MapCheck: New page: LivingRoom - Dec 8, 2016, 3:53:32 PM
+[2016.12.08-13.53.32:293][198]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 51.367ms to complete.
+[2016.12.08-13.54.01:025][534]Cmd: EDIT COPY
+[2016.12.08-13.54.01:246][560]Cmd: EDIT PASTE
+[2016.12.08-13.54.30:758][ 52]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-13.54.30:766][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-13.54.30:766][ 52]PIE: New page: PIE session: LivingRoom (Dec 8, 2016, 3:54:30 PM)
+[2016.12.08-13.54.30:766][ 52]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LivingRoom
+[2016.12.08-13.54.30:770][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003917s)
+[2016.12.08-13.54.30:770][ 52]LogAIModule: Creating AISystem for world LivingRoom
+[2016.12.08-13.54.30:770][ 52]LogPlayLevel: PIE: World Init took: (0.000457s)
+[2016.12.08-13.54.30:770][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LivingRoom.LivingRoom to /Game/UEDPIE_0_LivingRoom.LivingRoom (0.004528s)
+[2016.12.08-13.54.30:780][ 52]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-13.54.30:785][ 52]LogInit: FAudioDevice initialized.
+[2016.12.08-13.54.30:816][ 52]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-13.54.30:818][ 52]LogWorld: Bringing World /Game/UEDPIE_0_LivingRoom.LivingRoom up for play (max tick rate 0) at 2016.12.08-14.54.30
+[2016.12.08-13.54.30:818][ 52]LogWorld: Bringing up level for play took: 0.000984
+[2016.12.08-13.54.30:820][ 52]PIE: Info Play in editor start time for /Game/UEDPIE_0_LivingRoom 0.777
+[2016.12.08-13.55.00:576][586]MapCheck: New page: Map Check
+[2016.12.08-13.55.00:597][586]Cmd: MAP REBUILD ALLVISIBLE
+[2016.12.08-13.55.00:597][586]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.12.08-13.55.00:608][586]LightingResults: New page: Lighting Build - Dec 8, 2016, 3:55:00 PM
+[2016.12.08-13.55.00:614][586]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.08-13.55.00:615][586]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.08-13.55.00:615][586]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.08-13.55.00:616][586]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.08-13.55.00:616][586]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2016.12.08-13.55.05:120][586]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.12.08-13.55.05:120][586]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.08-13.55.05:120][586]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.08-13.55.05:120][586]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.08-13.55.05:120][586]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.08-13.55.05:120][586]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.08-13.55.05:226][586]LogEditorBuildUtils: Build time 0:04
+[2016.12.08-13.55.09:517][958]LightingResults:Warning: Warning Lakheden Object has overlapping UVs.
+[2016.12.08-13.55.09:517][958]LightingResults: Info Lakheden Lightmap UV are overlapping by 23.4%. Please adjust content - Enable Error Coloring to visualize.
+[2016.12.08-13.55.15:328][512]Job is a success!
+[2016.12.08-13.55.15:535][513]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.12.08-13.55.15:535][513]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.12.08-13.55.15:535][513]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.12.08-13.55.15:535][513]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.12.08-13.55.15:535][513]LogTexture:Display: Building textures: ShadowMapTexture2D_28 (G8)
+[2016.12.08-13.55.15:535][513]LogTexture:Display: Building textures: ShadowMapTexture2D_29 (G8)
+[2016.12.08-13.55.15:559][513]Lightmass on 3SE-SPEL-64: 9.83 sec total, 1.51 sec importing, 754 ms setup, 519 ms photons, 7.02 sec processing, 0 ms extra exporting [26/26 mappings]. Threads: 28.0 sec total, 13.9 sec processing.
+[2016.12.08-13.55.15:596][513]LogStaticLightingSystem: Illumination: 14.9 sec (114 ms encoding lightmaps, 35 ms encoding shadowmaps)
+[2016.12.08-13.55.15:597][513]LogStaticLightingSystem: Lightmap texture memory:  0.6 MB (0.1 MB streaming, 0.5 MB non-streaming), 4 textures
+[2016.12.08-13.55.15:597][513]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.0 MB streaming, 0.2 MB non-streaming), 2 textures
+[2016.12.08-13.55.16:120][513]DumpUnbuiltLightIteractions
+[2016.12.08-13.55.16:120][513]Lights with unbuilt interactions: 0
+[2016.12.08-13.55.16:120][513]
+[2016.12.08-13.55.16:120][513]Primitives with unbuilt interactions: 0
+[2016.12.08-13.55.16:131][514]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.08-13.55.16:131][514]MapCheck: New page: LivingRoom - Dec 8, 2016, 3:55:16 PM
+[2016.12.08-13.55.16:183][514]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 51.139ms to complete.
+[2016.12.08-13.57.45:047][587]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/UnrealProjects/Fbx assets/Decorations/FbxPainting.fbx)
+[2016.12.08-13.57.45:092][587]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.12.08-13.57.45:092][587]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.12.08-13.57.45:092][587]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.12.08-13.57.45:092][587]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.12.08-13.57.45:092][587]LogFbx: ItemName: Material, ItemCount : 3
+[2016.12.08-13.57.45:092][587]LogFbx: ItemName: Texture, ItemCount : 1
+[2016.12.08-13.57.45:092][587]LogFbx: ItemName: Model, ItemCount : 2
+[2016.12.08-13.57.45:092][587]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2016.12.08-13.57.45:092][587]LogFbx: ItemName: Video, ItemCount : 1
+[2016.12.08-13.57.45:097][587]LogFbx: Loading FBX Scene from D:/UnrealProjects/Fbx assets/Decorations/FbxPainting.fbx
+[2016.12.08-13.57.45:112][587]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.08-13.57.50:493][587]LogFbx: Loading FBX Scene from D:/UnrealProjects/Fbx assets/Decorations/FbxPainting.fbx
+[2016.12.08-13.57.50:508][587]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.08-13.57.50:512][587]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/blinn2'
+[2016.12.08-13.57.50:512][587]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/blinn2'
+[2016.12.08-13.57.50:515][587]LogMaterial: Missing cached shader map for material blinn2, compiling. 
+[2016.12.08-13.57.50:529][587]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/lambert2'
+[2016.12.08-13.57.50:529][587]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/lambert2'
+[2016.12.08-13.57.50:531][587]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Girl-Sunset'
+[2016.12.08-13.57.50:531][587]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/Girl-Sunset'
+[2016.12.08-13.57.51:005][587]LogTexture:Display: Building textures: Girl-Sunset (BGRA8)
+[2016.12.08-13.57.51:717][587]LogFbxMaterialImport:Warning: Manual texture reimport and recompression may be needed for Girl-Sunset
+[2016.12.08-13.57.52:195][587]LogTexture:Display: Building textures: Girl-Sunset (BGRA8)
+[2016.12.08-13.57.52:847][587]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2016.12.08-13.57.52:848][587]LogMaterial:Warning: Failed to compile Material /Game/FbxAssets/Decorations/Walls/lambert2.lambert2 for platform PCD3D_SM5, Default Material will be used in game.
+[2016.12.08-13.57.52:848][587]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/FbxAssets/Decorations/Walls/Girl-Sunset.Girl-Sunset
+[2016.12.08-13.57.52:849][587]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/blinn3'
+[2016.12.08-13.57.52:850][587]LogLinker: Can't find file '/Game/FbxAssets/Decorations/Walls/blinn3'
+[2016.12.08-13.57.52:855][587]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2016.12.08-13.57.52:883][587]LogFbx:Warning: Triangulating static mesh painting
+[2016.12.08-13.57.53:296][587]LogStaticMesh: Building static mesh FbxPainting...
+[2016.12.08-13.57.53:341][587]LogStaticMesh: Built static mesh [0.05s] /Game/FbxAssets/Decorations/Walls/FbxPainting.FbxPainting
+[2016.12.08-13.57.53:352][587]LogStaticMesh:Warning: FbxPainting has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2016.12.08-13.57.53:356][587]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2016.12.08-13.57.53:356][587]FBXImport:Warning: Warning FbxPainting has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2016.12.08-13.58.06:442][ 23]LogActorFactory: Actor Factory created FbxPainting
+[2016.12.08-13.58.09:186][338]LogActorFactory: Actor Factory created FbxPainting
+[2016.12.08-13.58.22:353][846]LogMaterial: Missing cached shader map for material Girl-Sunset_Mat, compiling. 
+[2016.12.08-13.58.40:299][819]MapCheck: New page: Map Check
+[2016.12.08-13.58.40:315][819]Cmd: MAP REBUILD ALLVISIBLE
+[2016.12.08-13.58.40:315][819]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.12.08-13.58.40:327][819]LightingResults: New page: Lighting Build - Dec 8, 2016, 3:58:40 PM
+[2016.12.08-13.58.40:332][819]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.12.08-13.58.40:333][819]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.12.08-13.58.40:333][819]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.12.08-13.58.40:334][819]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.12.08-13.58.40:334][819]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2016.12.08-13.58.44:838][819]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.12.08-13.58.44:838][819]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.12.08-13.58.44:838][819]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.12.08-13.58.44:838][819]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.12.08-13.58.44:838][819]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.12.08-13.58.44:838][819]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.12.08-13.58.44:980][819]LogEditorBuildUtils: Build time 0:04
+[2016.12.08-13.58.44:997][819]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer blinn2, compiling. 
+[2016.12.08-13.58.45:003][819]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer blinn2, compiling. 
+[2016.12.08-13.58.45:023][820]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Girl-Sunset_Mat, compiling. 
+[2016.12.08-13.58.45:030][820]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Girl-Sunset_Mat, compiling. 
+[2016.12.08-13.58.45:086][821]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer blinn3, compiling. 
+[2016.12.08-13.58.45:091][821]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer blinn3, compiling. 
+[2016.12.08-13.58.50:940][193]LightingResults:Warning: Warning Lakheden Object has overlapping UVs.
+[2016.12.08-13.58.50:940][193]LightingResults: Info Lakheden Lightmap UV are overlapping by 23.4%. Please adjust content - Enable Error Coloring to visualize.
+[2016.12.08-13.58.57:708][857]Job is a success!
+[2016.12.08-13.58.57:766][858]LogMaterial:Warning: Material /Game/FbxAssets/Decorations/Walls/blinn2.blinn2 needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-13.58.57:768][858]LogMaterial: Missing cached shader map for material blinn2, compiling. 
+[2016.12.08-13.58.57:787][858]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-13.58.57:787][858]LogMaterial:Warning: Material /Game/FbxAssets/Decorations/Walls/Girl-Sunset_Mat.Girl-Sunset_Mat needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-13.58.57:789][858]LogMaterial: Missing cached shader map for material Girl-Sunset_Mat, compiling. 
+[2016.12.08-13.58.57:809][858]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-13.58.57:809][858]LogMaterial:Warning: Material /Game/FbxAssets/Decorations/Walls/blinn3.blinn3 needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-13.58.57:811][858]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2016.12.08-13.58.57:830][858]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-13.58.57:998][858]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.12.08-13.58.57:998][858]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.12.08-13.58.57:999][858]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.12.08-13.58.57:999][858]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.12.08-13.58.57:999][858]LogTexture:Display: Building textures: ShadowMapTexture2D_30 (G8)
+[2016.12.08-13.58.57:999][858]LogTexture:Display: Building textures: ShadowMapTexture2D_31 (G8)
+[2016.12.08-13.58.58:082][858]LogStaticLightingSystem: Illumination: 17.7 sec (120 ms encoding lightmaps, 41 ms encoding shadowmaps)
+[2016.12.08-13.58.58:082][858]LogStaticLightingSystem: Lightmap texture memory:  0.6 MB (0.1 MB streaming, 0.5 MB non-streaming), 4 textures
+[2016.12.08-13.58.58:082][858]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.0 MB streaming, 0.2 MB non-streaming), 2 textures
+[2016.12.08-13.58.58:838][858]DumpUnbuiltLightIteractions
+[2016.12.08-13.58.58:838][858]Lights with unbuilt interactions: 0
+[2016.12.08-13.58.58:838][858]
+[2016.12.08-13.58.58:838][858]Primitives with unbuilt interactions: 0
+[2016.12.08-13.58.58:850][859]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.12.08-13.58.58:851][859]MapCheck: New page: LivingRoom - Dec 8, 2016, 3:58:58 PM
+[2016.12.08-13.58.58:937][859]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 86.067ms to complete.
+[2016.12.08-13.59.12:373][312]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-13.59.12:381][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-13.59.12:381][312]PIE: New page: PIE session: LivingRoom (Dec 8, 2016, 3:59:12 PM)
+[2016.12.08-13.59.12:381][312]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LivingRoom
+[2016.12.08-13.59.12:385][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003931s)
+[2016.12.08-13.59.12:386][312]LogAIModule: Creating AISystem for world LivingRoom
+[2016.12.08-13.59.12:386][312]LogPlayLevel: PIE: World Init took: (0.000476s)
+[2016.12.08-13.59.12:386][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LivingRoom.LivingRoom to /Game/UEDPIE_0_LivingRoom.LivingRoom (0.004562s)
+[2016.12.08-13.59.12:395][312]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-13.59.12:400][312]LogInit: FAudioDevice initialized.
+[2016.12.08-13.59.12:425][312]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-13.59.12:427][312]LogWorld: Bringing World /Game/UEDPIE_0_LivingRoom.LivingRoom up for play (max tick rate 0) at 2016.12.08-14.59.12
+[2016.12.08-13.59.12:428][312]LogWorld: Bringing up level for play took: 0.000984
+[2016.12.08-13.59.12:430][312]PIE: Info Play in editor start time for /Game/UEDPIE_0_LivingRoom 0.397
+[2016.12.08-13.59.29:064][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LivingRoom" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/LivingRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.12.08-13.59.29:097][294]LogSavePackage: Save=24.32ms
+[2016.12.08-13.59.29:097][294]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/LivingRoom458CE1814CE4F550468A74B4ADCBD9AC.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/LivingRoom.umap'
+[2016.12.08-13.59.29:099][294]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/LivingRoom.umap
+[2016.12.08-13.59.29:112][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LivingRoom_BuiltData" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/LivingRoom_BuiltData.uasset" SILENT=true
+[2016.12.08-13.59.29:146][294]LogSavePackage: Save=21.89ms
+[2016.12.08-13.59.29:146][294]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/LivingRoom_BuiltData612271284BA791CFB77B66A227982A6E.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/LivingRoom_BuiltData.uasset'
+[2016.12.08-13.59.29:148][294]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/LivingRoom_BuiltData.uasset
+[2016.12.08-13.59.48:217][801]LogTemp: Repeting last play command: Selected Viewport
