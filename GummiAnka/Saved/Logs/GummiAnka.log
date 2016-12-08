@@ -1137,3 +1137,161 @@ LogInit: Object subsystem initialized
 [2016.12.08-08.15.49:216][222]LogSavePackage: Save=430.78ms
 [2016.12.08-08.15.49:216][222]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/indoor_plant_2_COLC5515A9B42150B5C186DC8B3EBD5331F.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/indoor_plant_2_COL.uasset'
 [2016.12.08-08.15.49:218][222]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/indoor_plant_2_COL.uasset
+[2016.12.08-08.15.49:236][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/indoor_plant_2_NOR_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/indoor_plant_2_NOR_Mat.uasset" SILENT=true
+[2016.12.08-08.15.49:248][222]LogSavePackage: Save=11.62ms
+[2016.12.08-08.15.49:248][222]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/indoor_plant_2_NOR_Mat296B5DF44C31BF13C33EAB8D5096C70E.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/indoor_plant_2_NOR_Mat.uasset'
+[2016.12.08-08.15.49:250][222]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/indoor_plant_2_NOR_Mat.uasset
+[2016.12.08-08.15.49:265][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/indoor_plant_2_COL_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/indoor_plant_2_COL_Mat.uasset" SILENT=true
+[2016.12.08-08.15.49:277][222]LogSavePackage: Save=11.43ms
+[2016.12.08-08.15.49:277][222]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/indoor_plant_2_COL_MatAAD28D4C4065B4FB5C2E75A89FF8C579.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/indoor_plant_2_COL_Mat.uasset'
+[2016.12.08-08.15.49:278][222]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/indoor_plant_2_COL_Mat.uasset
+[2016.12.08-08.35.09:801][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table2)
+[2016.12.08-08.35.32:909][753]LogMaterial: Missing cached shader map for material sp_wood_oak_1_Mat, compiling. 
+[2016.12.08-08.35.32:974][753]LogMaterial: Missing cached shader map for material sp_wood_oak_1_Mat, compiling. 
+[2016.12.08-08.35.32:987][753]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.35.33:013][753]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2016.12.08-08.35.33:017][753]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2016.12.08-08.35.36:763][981]MaterialEditorStats: Info Base pass shader with static lighting: 61 instructions
+[2016.12.08-08.35.36:763][981]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2016.12.08-08.35.36:763][981]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-08.35.36:763][981]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.08-08.35.43:662][544]LogMaterial: Missing cached shader map for material sp_wood_oak_1_Mat, compiling. 
+[2016.12.08-08.35.43:675][544]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.35.52:053][686]LogMaterial: Missing cached shader map for material sp_wood_oak_1_Mat, compiling. 
+[2016.12.08-08.35.52:066][686]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.35.54:342][815]MaterialEditorStats: Info Base pass shader with static lighting: 61 instructions
+[2016.12.08-08.35.54:342][815]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2016.12.08-08.35.54:342][815]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-08.35.54:342][815]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.08-08.36.00:307][337]LogMaterialEditor: Saving and Compiling material sp_wood_oak_1_Mat
+[2016.12.08-08.36.00:775][337]LogMaterial: Missing cached shader map for material sp_wood_oak_1_Mat, compiling. 
+[2016.12.08-08.36.00:798][337]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.36.00:830][337]LogMaterial: Missing cached shader map for material sp_wood_oak_1_Mat, compiling. 
+[2016.12.08-08.36.00:874][337]LogMaterial: Missing cached shader map for material sp_wood_oak_1_Mat, compiling. 
+[2016.12.08-08.36.00:894][337]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.36.04:251][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/sp_wood_oak_1_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/sp_wood_oak_1_Mat.uasset" SILENT=true
+[2016.12.08-08.36.04:266][337]LogSavePackage: Save=13.42ms
+[2016.12.08-08.36.04:266][337]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/sp_wood_oak_1_Mat1D075C024DCB6D3CEAA391BEF3021DD9.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/sp_wood_oak_1_Mat.uasset'
+[2016.12.08-08.36.04:278][337]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/sp_wood_oak_1_Mat.uasset
+[2016.12.08-08.36.04:294][337]MaterialEditorStats: Info Base pass shader with static lighting: 91 instructions
+[2016.12.08-08.36.04:294][337]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 65 instructions
+[2016.12.08-08.36.04:294][337]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-08.36.04:294][337]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.12.08-08.36.17:920][413]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2016.12.08-08.36.20:590][636]LogEditorActor: Deleted Actor: PointLight
+[2016.12.08-08.36.20:598][636]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2016.12.08-08.36.42:322][856]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-08.36.42:330][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-08.36.42:330][856]PIE: New page: PIE session: TestLevel (Dec 8, 2016, 10:36:42 AM)
+[2016.12.08-08.36.42:330][856]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2016.12.08-08.36.42:334][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003928s)
+[2016.12.08-08.36.42:335][856]LogAIModule: Creating AISystem for world TestLevel
+[2016.12.08-08.36.42:335][856]LogPlayLevel: PIE: World Init took: (0.000520s)
+[2016.12.08-08.36.42:335][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.004601s)
+[2016.12.08-08.36.42:344][856]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-08.36.42:349][856]LogInit: FAudioDevice initialized.
+[2016.12.08-08.36.42:379][856]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-08.36.42:381][856]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2016.12.08-09.36.42
+[2016.12.08-08.36.42:381][856]LogWorld: Bringing up level for play took: 0.000852
+[2016.12.08-08.36.42:383][856]PIE: Info Play in editor start time for /Game/UEDPIE_0_TestLevel 1.006
+[2016.12.08-08.37.02:475][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table2)
+[2016.12.08-08.37.10:902][476]LogMaterial: Missing cached shader map for material wood115_Mat, compiling. 
+[2016.12.08-08.37.10:923][476]LogMaterial:Warning: Material /Game/FbxAssets/Furniture/wood115_Mat.wood115_Mat needed to have new flag set bUsedWithStaticLighting !
+[2016.12.08-08.37.10:926][476]LogMaterial: Missing cached shader map for material wood115_Mat, compiling. 
+[2016.12.08-08.37.10:945][476]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.37.29:666][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table2)
+[2016.12.08-08.37.50:473][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Furniture/Table" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/Table.uasset" SILENT=true
+[2016.12.08-08.37.50:484][665]LogSavePackage: Save=9.40ms
+[2016.12.08-08.37.50:484][665]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Table291EB3344C0BD5ED444D03A1FA72C889.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/Table.uasset'
+[2016.12.08-08.37.50:485][665]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/Table.uasset
+[2016.12.08-08.37.59:826][606]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2016.12.08-08.37.59:876][606]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2016.12.08-08.37.59:886][606]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.38.03:319][819]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.08-08.38.03:319][819]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.08-08.38.03:319][819]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.08-08.38.10:729][486]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2016.12.08-08.38.10:757][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Furniture/NewMaterial" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/NewMaterial.uasset" SILENT=true
+[2016.12.08-08.38.10:767][486]LogSavePackage: Save=10.09ms
+[2016.12.08-08.38.10:767][486]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/NewMaterial3B9216B64E2BB636CDB1A2B88AFC8B9E.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/NewMaterial.uasset'
+[2016.12.08-08.38.10:769][486]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/NewMaterial.uasset
+[2016.12.08-08.38.18:056][262]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2016.12.08-08.38.18:117][262]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2016.12.08-08.38.18:127][262]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.38.19:488][336]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.08-08.38.19:488][336]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.08-08.38.19:488][336]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.08-08.38.25:671][872]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2016.12.08-08.38.25:681][872]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.38.27:277][987]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.08-08.38.27:277][987]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.08-08.38.27:277][987]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.08-08.38.27:761][ 34]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2016.12.08-08.38.27:772][ 34]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.38.29:879][203]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.08-08.38.29:879][203]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.08-08.38.29:879][203]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.08-08.38.43:388][443]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2016.12.08-08.38.43:398][443]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.38.45:053][576]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.08-08.38.45:053][576]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.08-08.38.45:053][576]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.08-08.38.45:541][624]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2016.12.08-08.38.45:552][624]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.38.47:330][767]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.08-08.38.47:330][767]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.08-08.38.47:330][767]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.08-08.39.45:285][173]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2016.12.08-08.39.45:296][173]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.39.47:515][360]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.08-08.39.47:515][360]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.08-08.39.47:515][360]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.08-08.39.53:712][937]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2016.12.08-08.39.53:725][937]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.39.55:293][ 59]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2016.12.08-08.39.55:294][ 59]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-08.39.55:294][ 59]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.08-08.40.08:569][257]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2016.12.08-08.40.08:579][257]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.40.08:582][257]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2016.12.08-08.40.08:587][257]LogMaterial:Warning: Failed to compile Material /Engine/Transient.PreviewMaterial_2 for platform PCD3D_SM5, Default Material will be used in game.
+[2016.12.08-08.40.08:587][257]LogMaterial:Warning: 	(Node Desaturation) Missing Desaturation input
+[2016.12.08-08.40.08:587][257]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.40.08:589][257]MaterialEditorStats:Error: Error [SM5] (Node Desaturation) Missing Desaturation input
+[2016.12.08-08.40.11:250][510]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2016.12.08-08.40.11:261][510]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.40.11:756][550]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2016.12.08-08.40.11:768][550]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.45.40:145][321]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/UnrealProjects/Fbx assets/White color.jpg)
+[2016.12.08-08.45.40:149][321]LogTexture:Display: Building textures: White_color (AutoDXT)
+[2016.12.08-08.45.55:397][988]LogMaterial: Missing cached shader map for material White, compiling. 
+[2016.12.08-08.45.55:463][988]LogMaterial: Missing cached shader map for material White, compiling. 
+[2016.12.08-08.45.55:475][988]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.45.57:833][126]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.08-08.45.57:833][126]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.08-08.45.57:833][126]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.08-08.46.04:358][720]LogMaterial: Missing cached shader map for material White, compiling. 
+[2016.12.08-08.46.04:368][720]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.46.04:369][720]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.08-08.46.06:766][887]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.08-08.46.06:766][887]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.08-08.46.06:766][887]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.08-08.46.08:103][  4]LogMaterial: Missing cached shader map for material White, compiling. 
+[2016.12.08-08.46.08:115][  4]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.46.08:170][  4]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.08-08.46.09:922][147]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.08-08.46.09:922][147]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.08-08.46.09:922][147]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.08-08.46.11:296][272]LogMaterial: Missing cached shader map for material White, compiling. 
+[2016.12.08-08.46.11:306][272]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.46.11:384][272]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.08-08.46.13:199][403]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.12.08-08.46.13:199][403]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.08-08.46.13:199][403]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.08-08.46.14:310][500]LogMaterialEditor: Saving and Compiling material White
+[2016.12.08-08.46.14:789][500]LogMaterial: Missing cached shader map for material White, compiling. 
+[2016.12.08-08.46.14:809][500]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.46.14:848][500]LogMaterial: Missing cached shader map for material White, compiling. 
+[2016.12.08-08.46.14:869][500]LogMaterial: Missing cached shader map for material White, compiling. 
+[2016.12.08-08.46.14:884][500]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.08-08.46.16:887][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Furniture/White" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/White.uasset" SILENT=true
