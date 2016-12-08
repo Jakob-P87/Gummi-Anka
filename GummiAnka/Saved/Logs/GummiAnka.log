@@ -2956,3 +2956,474 @@ LogInit: Object subsystem initialized
 [2016.12.08-13.59.29:146][294]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/LivingRoom_BuiltData612271284BA791CFB77B66A227982A6E.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/LivingRoom_BuiltData.uasset'
 [2016.12.08-13.59.29:148][294]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/LivingRoom_BuiltData.uasset
 [2016.12.08-13.59.48:217][801]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.08-13.59.48:225][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.08-13.59.48:225][801]PIE: New page: PIE session: LivingRoom (Dec 8, 2016, 3:59:48 PM)
+[2016.12.08-13.59.48:225][801]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LivingRoom
+[2016.12.08-13.59.48:230][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004456s)
+[2016.12.08-13.59.48:230][801]LogAIModule: Creating AISystem for world LivingRoom
+[2016.12.08-13.59.48:230][801]LogPlayLevel: PIE: World Init took: (0.000466s)
+[2016.12.08-13.59.48:230][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LivingRoom.LivingRoom to /Game/UEDPIE_0_LivingRoom.LivingRoom (0.005076s)
+[2016.12.08-13.59.48:240][801]LogInit: XAudio2 using 'Digitalt ljud (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.08-13.59.48:245][801]LogInit: FAudioDevice initialized.
+[2016.12.08-13.59.48:280][801]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.12.08-13.59.48:283][801]LogWorld: Bringing World /Game/UEDPIE_0_LivingRoom.LivingRoom up for play (max tick rate 0) at 2016.12.08-14.59.48
+[2016.12.08-13.59.48:283][801]LogWorld: Bringing up level for play took: 0.000969
+[2016.12.08-13.59.48:285][801]PIE: Info Play in editor start time for /Game/UEDPIE_0_LivingRoom 0.253
+[2016.12.08-14.04.38:033][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Carpets/111" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/111.uasset" SILENT=true
+[2016.12.08-14.04.38:743][562]LogSavePackage: Save=709.57ms
+[2016.12.08-14.04.38:743][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/111CBFA7C524C21EF471DDBB98073985646.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/111.uasset'
+[2016.12.08-14.04.38:745][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/111.uasset
+[2016.12.08-14.04.38:776][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Carpets/111_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/111_Mat.uasset" SILENT=true
+[2016.12.08-14.04.38:790][562]LogSavePackage: Save=13.50ms
+[2016.12.08-14.04.38:790][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/111_Mat69C1C9C245484D3ABE98D7BD41C6519A.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/111_Mat.uasset'
+[2016.12.08-14.04.38:791][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/111_Mat.uasset
+[2016.12.08-14.04.38:803][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Carpets/222" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/222.uasset" SILENT=true
+[2016.12.08-14.04.39:541][562]LogSavePackage: Save=737.09ms
+[2016.12.08-14.04.39:541][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/222D57CB5D04A7D14C9517B9CB25AC6F5B9.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/222.uasset'
+[2016.12.08-14.04.39:543][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/222.uasset
+[2016.12.08-14.04.39:573][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Carpets/222_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/222_Mat.uasset" SILENT=true
+[2016.12.08-14.04.39:587][562]LogSavePackage: Save=13.17ms
+[2016.12.08-14.04.39:587][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/222_Mat9B8833B141171557B3E129811DF6B33A.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/222_Mat.uasset'
+[2016.12.08-14.04.39:589][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/222_Mat.uasset
+[2016.12.08-14.04.39:627][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Carpets/kover" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/kover.uasset" SILENT=true
+[2016.12.08-14.04.39:661][562]LogSavePackage: Save=33.40ms
+[2016.12.08-14.04.39:661][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/kover006F3A474018A05B0F51EB87569DA072.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/kover.uasset'
+[2016.12.08-14.04.39:662][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/kover.uasset
+[2016.12.08-14.04.39:699][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Carpets/qsovili130G" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/qsovili130G.uasset" SILENT=true
+[2016.12.08-14.04.39:708][562]LogSavePackage: Save=9.04ms
+[2016.12.08-14.04.39:708][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/qsovili130GA323542249036B9F360CCAB03E9188C1.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/qsovili130G.uasset'
+[2016.12.08-14.04.39:709][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/qsovili130G.uasset
+[2016.12.08-14.04.39:743][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Carpets/qw" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/qw.uasset" SILENT=true
+[2016.12.08-14.04.39:753][562]LogSavePackage: Save=9.03ms
+[2016.12.08-14.04.39:753][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/qwCDFAC3294BE31CFDD5B5419C6A9DEFC4.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/qw.uasset'
+[2016.12.08-14.04.39:754][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Carpets/qw.uasset
+[2016.12.08-14.04.39:784][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/indoor_plant_2_vl_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/indoor_plant_2_vl_Mat.uasset" SILENT=true
+[2016.12.08-14.04.39:798][562]LogSavePackage: Save=12.27ms
+[2016.12.08-14.04.39:798][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/indoor_plant_2_vl_MatB9C727DB40990E7BAE306CA71CB7D652.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/indoor_plant_2_vl_Mat.uasset'
+[2016.12.08-14.04.39:799][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/indoor_plant_2_vl_Mat.uasset
+[2016.12.08-14.04.39:811][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Antilop" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Antilop.uasset" SILENT=true
+[2016.12.08-14.04.39:886][562]LogSavePackage: Save=74.28ms
+[2016.12.08-14.04.39:886][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/AntilopE6FFDE2E48F6615BBA39C3932C0231BD.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Antilop.uasset'
+[2016.12.08-14.04.39:887][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Antilop.uasset
+[2016.12.08-14.04.39:919][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Antilop_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Antilop_Mat.uasset" SILENT=true
+[2016.12.08-14.04.39:931][562]LogSavePackage: Save=11.98ms
+[2016.12.08-14.04.39:931][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Antilop_Mat7A8B32E745FE323B74A09884ACF796BC.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Antilop_Mat.uasset'
+[2016.12.08-14.04.39:940][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Antilop_Mat.uasset
+[2016.12.08-14.04.39:969][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/blinn2" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/blinn2.uasset" SILENT=true
+[2016.12.08-14.04.39:979][562]LogSavePackage: Save=9.49ms
+[2016.12.08-14.04.39:979][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/blinn2B14B80F741B6AE4CB9B131A0685753F2.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/blinn2.uasset'
+[2016.12.08-14.04.39:981][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/blinn2.uasset
+[2016.12.08-14.04.40:010][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/blinn3" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/blinn3.uasset" SILENT=true
+[2016.12.08-14.04.40:021][562]LogSavePackage: Save=10.24ms
+[2016.12.08-14.04.40:021][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/blinn334E0078D46741A0C3D5D5792A3DE6FB6.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/blinn3.uasset'
+[2016.12.08-14.04.40:022][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/blinn3.uasset
+[2016.12.08-14.04.40:031][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Chicken" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Chicken.uasset" SILENT=true
+[2016.12.08-14.04.40:090][562]LogSavePackage: Save=59.09ms
+[2016.12.08-14.04.40:090][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Chicken6A77B063450283EDA41FA185C306AE0F.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Chicken.uasset'
+[2016.12.08-14.04.40:092][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Chicken.uasset
+[2016.12.08-14.04.40:121][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Chicken_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Chicken_Mat.uasset" SILENT=true
+[2016.12.08-14.04.40:133][562]LogSavePackage: Save=11.40ms
+[2016.12.08-14.04.40:133][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Chicken_MatF0C414F540EF504EE6D04A9A4B7C547D.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Chicken_Mat.uasset'
+[2016.12.08-14.04.40:134][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Chicken_Mat.uasset
+[2016.12.08-14.04.40:144][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Cute_owl" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Cute_owl.uasset" SILENT=true
+[2016.12.08-14.04.40:209][562]LogSavePackage: Save=64.52ms
+[2016.12.08-14.04.40:209][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Cute_owl333013AE411D83E810450E9F84ABA082.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Cute_owl.uasset'
+[2016.12.08-14.04.40:210][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Cute_owl.uasset
+[2016.12.08-14.04.40:244][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Cute_owl_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Cute_owl_Mat.uasset" SILENT=true
+[2016.12.08-14.04.40:256][562]LogSavePackage: Save=11.54ms
+[2016.12.08-14.04.40:256][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Cute_owl_Mat6561491F466D3643DFE824BEE1DE5E16.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Cute_owl_Mat.uasset'
+[2016.12.08-14.04.40:257][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Cute_owl_Mat.uasset
+[2016.12.08-14.04.40:267][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Cute_tiger" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Cute_tiger.uasset" SILENT=true
+[2016.12.08-14.04.40:280][562]LogSavePackage: Save=12.85ms
+[2016.12.08-14.04.40:280][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Cute_tiger27AAC33D44FE0050089832A57E952545.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Cute_tiger.uasset'
+[2016.12.08-14.04.40:282][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Cute_tiger.uasset
+[2016.12.08-14.04.40:311][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Cute_tiger_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Cute_tiger_Mat.uasset" SILENT=true
+[2016.12.08-14.04.40:322][562]LogSavePackage: Save=10.97ms
+[2016.12.08-14.04.40:322][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Cute_tiger_Mat48E6DF94409885085C08B1B9EFCB87A3.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Cute_tiger_Mat.uasset'
+[2016.12.08-14.04.40:323][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Cute_tiger_Mat.uasset
+[2016.12.08-14.04.40:352][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/FbxPainting" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/FbxPainting.uasset" SILENT=true
+[2016.12.08-14.04.40:360][562]LogSavePackage: Save=7.75ms
+[2016.12.08-14.04.40:360][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/FbxPainting04106741410D7B4EEA90CBAAFBA4C419.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/FbxPainting.uasset'
+[2016.12.08-14.04.40:361][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/FbxPainting.uasset
+[2016.12.08-14.04.40:376][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Girl-Sunset" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Girl-Sunset.uasset" SILENT=true
+[2016.12.08-14.04.41:675][562]LogSavePackage: Save=1298.25ms
+[2016.12.08-14.04.41:675][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Girl-Sunset851869784092EA83FC0222BF526F6B80.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Girl-Sunset.uasset'
+[2016.12.08-14.04.41:676][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Girl-Sunset.uasset
+[2016.12.08-14.04.41:710][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Girl-Sunset_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Girl-Sunset_Mat.uasset" SILENT=true
+[2016.12.08-14.04.41:724][562]LogSavePackage: Save=13.23ms
+[2016.12.08-14.04.41:724][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Girl-Sunset_MatB6C7A5B149299D17A5D9F6AC13F2A8A5.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Girl-Sunset_Mat.uasset'
+[2016.12.08-14.04.41:725][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Girl-Sunset_Mat.uasset
+[2016.12.08-14.04.41:735][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Hyena" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Hyena.uasset" SILENT=true
+[2016.12.08-14.04.41:755][562]LogSavePackage: Save=19.37ms
+[2016.12.08-14.04.41:755][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Hyena0183DF9B4AF63CAC6D3598A56F856810.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Hyena.uasset'
+[2016.12.08-14.04.41:757][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Hyena.uasset
+[2016.12.08-14.04.41:787][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Hyena_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Hyena_Mat.uasset" SILENT=true
+[2016.12.08-14.04.41:799][562]LogSavePackage: Save=11.28ms
+[2016.12.08-14.04.41:799][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Hyena_Mat675FB6454D918D3E9FDFD187EEA1C20B.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Hyena_Mat.uasset'
+[2016.12.08-14.04.41:800][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Hyena_Mat.uasset
+[2016.12.08-14.04.41:811][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Kittens" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Kittens.uasset" SILENT=true
+[2016.12.08-14.04.41:827][562]LogSavePackage: Save=15.34ms
+[2016.12.08-14.04.41:827][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Kittens4E33C9294CC6357E34561FBD6CD4692B.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Kittens.uasset'
+[2016.12.08-14.04.41:828][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Kittens.uasset
+[2016.12.08-14.04.41:858][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Kittens_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Kittens_Mat.uasset" SILENT=true
+[2016.12.08-14.04.41:870][562]LogSavePackage: Save=11.07ms
+[2016.12.08-14.04.41:870][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Kittens_Mat3861E25A4AE2A796C10D42A83F813A1C.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Kittens_Mat.uasset'
+[2016.12.08-14.04.41:871][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Kittens_Mat.uasset
+[2016.12.08-14.04.41:901][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/lambert2" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/lambert2.uasset" SILENT=true
+[2016.12.08-14.04.41:922][562]LogSavePackage: Save=20.13ms
+[2016.12.08-14.04.41:922][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/lambert28D1F3AB94DFD676432DD39A58B0E5B9D.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/lambert2.uasset'
+[2016.12.08-14.04.41:928][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/lambert2.uasset
+[2016.12.08-14.04.41:936][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Lodjur" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Lodjur.uasset" SILENT=true
+[2016.12.08-14.04.41:960][562]LogSavePackage: Save=22.64ms
+[2016.12.08-14.04.41:960][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Lodjur701A603F4787492114CFDF857FC9B9F5.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Lodjur.uasset'
+[2016.12.08-14.04.41:962][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Lodjur.uasset
+[2016.12.08-14.04.41:991][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Lodjur_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Lodjur_Mat.uasset" SILENT=true
+[2016.12.08-14.04.42:004][562]LogSavePackage: Save=11.72ms
+[2016.12.08-14.04.42:004][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Lodjur_Mat2F73F48F415B9C7F12D459B1827F3B58.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Lodjur_Mat.uasset'
+[2016.12.08-14.04.42:005][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Lodjur_Mat.uasset
+[2016.12.08-14.04.42:035][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/pictures" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/pictures.uasset" SILENT=true
+[2016.12.08-14.04.42:045][562]LogSavePackage: Save=9.78ms
+[2016.12.08-14.04.42:045][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/pictures4F99558447F0D2BE32D37CA2E5790B3A.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/pictures.uasset'
+[2016.12.08-14.04.42:046][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/pictures.uasset
+[2016.12.08-14.04.42:054][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Piggy" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Piggy.uasset" SILENT=true
+[2016.12.08-14.04.42:191][562]LogSavePackage: Save=135.95ms
+[2016.12.08-14.04.42:191][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Piggy19C223354AD3ECE22637498F236F6C49.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Piggy.uasset'
+[2016.12.08-14.04.42:192][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Piggy.uasset
+[2016.12.08-14.04.42:222][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Piggy_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Piggy_Mat.uasset" SILENT=true
+[2016.12.08-14.04.42:234][562]LogSavePackage: Save=11.01ms
+[2016.12.08-14.04.42:234][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Piggy_MatE2F307D542EA0CB93878468FBC172007.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Piggy_Mat.uasset'
+[2016.12.08-14.04.42:235][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Piggy_Mat.uasset
+[2016.12.08-14.04.42:247][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Rhinos" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Rhinos.uasset" SILENT=true
+[2016.12.08-14.04.42:292][562]LogSavePackage: Save=45.11ms
+[2016.12.08-14.04.42:292][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Rhinos5ABA5E7C4BF40CDBEF3096B8377DC0A2.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Rhinos.uasset'
+[2016.12.08-14.04.42:294][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Rhinos.uasset
+[2016.12.08-14.04.42:324][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Rhinos_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Rhinos_Mat.uasset" SILENT=true
+[2016.12.08-14.04.42:336][562]LogSavePackage: Save=11.72ms
+[2016.12.08-14.04.42:336][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Rhinos_MatDB2343EF4A480175CAC511AA0C2CDF24.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Rhinos_Mat.uasset'
+[2016.12.08-14.04.42:338][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Rhinos_Mat.uasset
+[2016.12.08-14.04.42:368][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Side_1" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Side_1.uasset" SILENT=true
+[2016.12.08-14.04.42:378][562]LogSavePackage: Save=9.47ms
+[2016.12.08-14.04.42:378][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Side_1FF2F2692415B6BDA4E9F0F89A3EA7760.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Side_1.uasset'
+[2016.12.08-14.04.42:379][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Side_1.uasset
+[2016.12.08-14.04.42:390][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Teacup_dog" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Teacup_dog.uasset" SILENT=true
+[2016.12.08-14.04.42:425][562]LogSavePackage: Save=34.77ms
+[2016.12.08-14.04.42:425][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Teacup_dog3E8EF88B4F8D5A72DEF93790F31ECB20.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Teacup_dog.uasset'
+[2016.12.08-14.04.42:427][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Teacup_dog.uasset
+[2016.12.08-14.04.42:463][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Decorations/Walls/Teacup_dog_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Teacup_dog_Mat.uasset" SILENT=true
+[2016.12.08-14.04.42:474][562]LogSavePackage: Save=9.80ms
+[2016.12.08-14.04.42:474][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Teacup_dog_Mat2EBE6D3B4FA4AB2967741CA2AD4A9EFD.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Teacup_dog_Mat.uasset'
+[2016.12.08-14.04.42:475][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Decorations/Walls/Teacup_dog_Mat.uasset
+[2016.12.08-14.04.42:478][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Furniture/White" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/White.uasset" SILENT=true
+[2016.12.08-14.04.42:481][562]LogSavePackage: Save=1.67ms
+[2016.12.08-14.04.42:481][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/WhiteCCBE3ACD47C150A2BC1F89ADE6D65DA6.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/White.uasset'
+[2016.12.08-14.04.42:482][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/White.uasset
+[2016.12.08-14.04.42:494][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Furniture/White_color" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/White_color.uasset" SILENT=true
+[2016.12.08-14.04.42:506][562]LogSavePackage: Save=11.66ms
+[2016.12.08-14.04.42:506][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/White_color218941D04388CDA506FA2899C6A0D710.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/White_color.uasset'
+[2016.12.08-14.04.42:508][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/White_color.uasset
+[2016.12.08-14.04.42:538][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Furniture/wood115_Mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/wood115_Mat.uasset" SILENT=true
+[2016.12.08-14.04.42:550][562]LogSavePackage: Save=11.44ms
+[2016.12.08-14.04.42:550][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/wood115_MatE2F7275F453F8128ED900DB62C8AF5FF.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/wood115_Mat.uasset'
+[2016.12.08-14.04.42:552][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Furniture/wood115_Mat.uasset
+[2016.12.08-14.04.42:582][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Lights/Alu_mat" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/Alu_mat.uasset" SILENT=true
+[2016.12.08-14.04.42:592][562]LogSavePackage: Save=9.31ms
+[2016.12.08-14.04.42:592][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Alu_matA6F21B7543DFA57F985DFA8745E0EF94.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/Alu_mat.uasset'
+[2016.12.08-14.04.42:593][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/Alu_mat.uasset
+[2016.12.08-14.04.42:623][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Lights/cord" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/cord.uasset" SILENT=true
+[2016.12.08-14.04.42:633][562]LogSavePackage: Save=9.06ms
+[2016.12.08-14.04.42:633][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/cord508427094BB8144E575FF4B3FE22FEB7.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/cord.uasset'
+[2016.12.08-14.04.42:634][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/cord.uasset
+[2016.12.08-14.04.42:664][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Lights/glass" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/glass.uasset" SILENT=true
+[2016.12.08-14.04.42:674][562]LogSavePackage: Save=9.13ms
+[2016.12.08-14.04.42:674][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/glass5395ED4B4B2D978A00F19CAA2FA91DD3.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/glass.uasset'
+[2016.12.08-14.04.42:718][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/glass.uasset
+[2016.12.08-14.04.42:749][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Lights/Lakheden" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/Lakheden.uasset" SILENT=true
+[2016.12.08-14.04.42:766][562]LogSavePackage: Save=15.51ms
+[2016.12.08-14.04.42:766][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/LakhedenE7B206CB42333744E7CBD89AECE5C04A.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/Lakheden.uasset'
+[2016.12.08-14.04.42:768][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/Lakheden.uasset
+[2016.12.08-14.04.42:801][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Lights/Lakheden2" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/Lakheden2.uasset" SILENT=true
+[2016.12.08-14.04.42:811][562]LogSavePackage: Save=9.57ms
+[2016.12.08-14.04.42:811][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Lakheden2098A8B5F4D687E37F936BCA9ACF8D006.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/Lakheden2.uasset'
+[2016.12.08-14.04.42:812][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/Lakheden2.uasset
+[2016.12.08-14.04.42:843][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Lights/metal" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/metal.uasset" SILENT=true
+[2016.12.08-14.04.42:853][562]LogSavePackage: Save=9.56ms
+[2016.12.08-14.04.42:853][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/metalCBF9721841F2AF143D1241AFAC781E09.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/metal.uasset'
+[2016.12.08-14.04.42:855][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/metal.uasset
+[2016.12.08-14.04.42:886][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Lights/pin" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/pin.uasset" SILENT=true
+[2016.12.08-14.04.42:896][562]LogSavePackage: Save=9.25ms
+[2016.12.08-14.04.42:896][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/pinEC956A2349A006ED429412BE17291770.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/pin.uasset'
+[2016.12.08-14.04.42:897][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/pin.uasset
+[2016.12.08-14.04.42:927][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Lights/screw-thread" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/screw-thread.uasset" SILENT=true
+[2016.12.08-14.04.42:937][562]LogSavePackage: Save=9.54ms
+[2016.12.08-14.04.42:937][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/screw-threadA4B5D9824A4DD72B3F60C0B7D8FFE532.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/screw-thread.uasset'
+[2016.12.08-14.04.42:938][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/screw-thread.uasset
+[2016.12.08-14.04.42:968][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FbxAssets/Lights/thread" FILE="D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/thread.uasset" SILENT=true
+[2016.12.08-14.04.42:978][562]LogSavePackage: Save=9.64ms
+[2016.12.08-14.04.42:978][562]LogSavePackage: Moving 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/thread7C07DBE04D187D0D8797D8843197E64A.tmp' to 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/thread.uasset'
+[2016.12.08-14.04.42:979][562]LogSavePackage:Display: Finished SavePackage D:/UnrealProjects/Gummi Anka/GummiAnka/Content/FbxAssets/Lights/thread.uasset
+[2016.12.08-14.04.43:207][563]Cmd: QUIT_EDITOR
+[2016.12.08-14.04.43:281][563]LogExit: Preparing to exit.
+[2016.12.08-14.04.43:561][563]LogExit: Editor shut down
+[2016.12.08-14.04.43:562][563]LogExit: Transaction tracking system shut down
+[2016.12.08-14.04.43:746][563]LogObj: Freed 0b from 0 cluster array pools.
+[2016.12.08-14.04.43:746][563]LogExit: Object subsystem successfully closed.
+[2016.12.08-14.04.43:785][563]LogD3D11RHI: Shutdown
+[2016.12.08-14.04.43:785][563]LogD3D11RHI: CleanupD3DDevice
+[2016.12.08-14.04.43:944][563]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.12.08-14.04.43:978][563]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.12.08-14.04.43:978][563]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF31D295C-4C58-444C-7666-468DFAEA578A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.0-3195953%2B%2B%2BUE4%2BRelease-4.14&UserID=ca80f451440d8452fff697b4bb049876%7C8b5d3536e2af4b28908a2298bfa2ddf2%7C2657d383-c71c-4f87-999b-40923e3cd8a0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.12.08-14.04.43:994][563]LogModuleManager: Shutting down and abandoning module NewLevelDialog (246)
+[2016.12.08-14.04.43:994][563]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (245)
+[2016.12.08-14.04.43:994][563]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (244)
+[2016.12.08-14.04.43:994][563]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (243)
+[2016.12.08-14.04.43:994][563]LogModuleManager: Shutting down and abandoning module MaterialEditor (242)
+[2016.12.08-14.04.43:994][563]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2016.12.08-14.04.43:995][563]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2016.12.08-14.04.43:995][563]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2016.12.08-14.04.43:995][563]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2016.12.08-14.04.43:995][563]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2016.12.08-14.04.43:996][563]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/4.14/FeaturePacks/' was aborted.
+[2016.12.08-14.04.43:997][563]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2016.12.08-14.04.43:997][563]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2016.12.08-14.04.43:997][563]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2016.12.08-14.04.43:998][563]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/Collections/' was aborted.
+[2016.12.08-14.04.43:998][563]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/Developers/persja/Collections/' was aborted.
+[2016.12.08-14.04.43:998][563]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/Gummi Anka/GummiAnka/Saved/Collections/' was aborted.
+[2016.12.08-14.04.43:998][563]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2016.12.08-14.04.43:998][563]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2016.12.08-14.04.43:999][563]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2016.12.08-14.04.43:999][563]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2016.12.08-14.04.43:999][563]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2016.12.08-14.04.43:999][563]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2016.12.08-14.04.43:999][563]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2016.12.08-14.04.43:999][563]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2016.12.08-14.04.43:999][563]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2016.12.08-14.04.44:000][563]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2016.12.08-14.04.44:000][563]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2016.12.08-14.04.44:000][563]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2016.12.08-14.04.44:000][563]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2016.12.08-14.04.44:001][563]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2016.12.08-14.04.44:003][563]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2016.12.08-14.04.44:003][563]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2016.12.08-14.04.44:003][563]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2016.12.08-14.04.44:003][563]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2016.12.08-14.04.44:003][563]LogModuleManager: Shutting down and abandoning module Media (215)
+[2016.12.08-14.04.44:003][563]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2016.12.08-14.04.44:003][563]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2016.12.08-14.04.44:003][563]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2016.12.08-14.04.44:003][563]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2016.12.08-14.04.44:004][563]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2016.12.08-14.04.44:004][563]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2016.12.08-14.04.44:004][563]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2016.12.08-14.04.44:004][563]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2016.12.08-14.04.44:004][563]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2016.12.08-14.04.44:004][563]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2016.12.08-14.04.44:005][563]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2016.12.08-14.04.44:006][563]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2016.12.08-14.04.44:007][563]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2016.12.08-14.04.44:007][563]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2016.12.08-14.04.44:007][563]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2016.12.08-14.04.44:007][563]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2016.12.08-14.04.44:986][563]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2016.12.08-14.04.44:987][563]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2016.12.08-14.04.44:987][563]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2016.12.08-14.04.44:987][563]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2016.12.08-14.04.44:987][563]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2016.12.08-14.04.44:990][563]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2016.12.08-14.04.44:990][563]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2016.12.08-14.04.44:991][563]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2016.12.08-14.04.44:991][563]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2016.12.08-14.04.44:991][563]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2016.12.08-14.04.44:992][563]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2016.12.08-14.04.44:992][563]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2016.12.08-14.04.44:993][563]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2016.12.08-14.04.44:993][563]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2016.12.08-14.04.44:994][563]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2016.12.08-14.04.44:994][563]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2016.12.08-14.04.44:994][563]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2016.12.08-14.04.44:994][563]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2016.12.08-14.04.44:994][563]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2016.12.08-14.04.44:994][563]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2016.12.08-14.04.44:994][563]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2016.12.08-14.04.44:995][563]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2016.12.08-14.04.44:996][563]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2016.12.08-14.04.44:996][563]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2016.12.08-14.04.44:997][563]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2016.12.08-14.04.44:997][563]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2016.12.08-14.04.45:047][563]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2016.12.08-14.04.45:048][563]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2016.12.08-14.04.45:048][563]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2016.12.08-14.04.45:050][563]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2016.12.08-14.04.45:050][563]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2016.12.08-14.04.45:050][563]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2016.12.08-14.04.45:050][563]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2016.12.08-14.04.45:050][563]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2016.12.08-14.04.45:051][563]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2016.12.08-14.04.45:051][563]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2016.12.08-14.04.45:052][563]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2016.12.08-14.04.45:053][563]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2016.12.08-14.04.45:053][563]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2016.12.08-14.04.45:054][563]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2016.12.08-14.04.45:055][563]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2016.12.08-14.04.45:056][563]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2016.12.08-14.04.45:056][563]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2016.12.08-14.04.45:056][563]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2016.12.08-14.04.45:056][563]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2016.12.08-14.04.45:056][563]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2016.12.08-14.04.45:056][563]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2016.12.08-14.04.45:056][563]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2016.12.08-14.04.45:056][563]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2016.12.08-14.04.45:056][563]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2016.12.08-14.04.45:056][563]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2016.12.08-14.04.45:056][563]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2016.12.08-14.04.45:056][563]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2016.12.08-14.04.45:220][563]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2016.12.08-14.04.45:221][563]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2016.12.08-14.04.45:221][563]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2016.12.08-14.04.45:221][563]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2016.12.08-14.04.45:221][563]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2016.12.08-14.04.45:221][563]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2016.12.08-14.04.45:222][563]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2016.12.08-14.04.45:222][563]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2016.12.08-14.04.45:222][563]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2016.12.08-14.04.45:222][563]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2016.12.08-14.04.45:222][563]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2016.12.08-14.04.45:222][563]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2016.12.08-14.04.45:222][563]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2016.12.08-14.04.45:224][563]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2016.12.08-14.04.45:225][563]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2016.12.08-14.04.45:225][563]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2016.12.08-14.04.45:225][563]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2016.12.08-14.04.45:225][563]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2016.12.08-14.04.45:225][563]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2016.12.08-14.04.45:225][563]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2016.12.08-14.04.45:225][563]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2016.12.08-14.04.45:225][563]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2016.12.08-14.04.45:226][563]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2016.12.08-14.04.45:227][563]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2016.12.08-14.04.45:227][563]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2016.12.08-14.04.45:227][563]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2016.12.08-14.04.45:228][563]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2016.12.08-14.04.45:228][563]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2016.12.08-14.04.45:228][563]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2016.12.08-14.04.45:229][563]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2016.12.08-14.04.45:230][563]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2016.12.08-14.04.45:230][563]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2016.12.08-14.04.45:230][563]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2016.12.08-14.04.45:230][563]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2016.12.08-14.04.45:230][563]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2016.12.08-14.04.45:230][563]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2016.12.08-14.04.45:231][563]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2016.12.08-14.04.45:231][563]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2016.12.08-14.04.45:231][563]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2016.12.08-14.04.45:233][563]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2016.12.08-14.04.45:234][563]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2016.12.08-14.04.45:234][563]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2016.12.08-14.04.45:334][563]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2016.12.08-14.04.45:434][563]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2016.12.08-14.04.45:434][563]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2016.12.08-14.04.45:434][563]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2016.12.08-14.04.45:434][563]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2016.12.08-14.04.45:436][563]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2016.12.08-14.04.45:436][563]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2016.12.08-14.04.45:437][563]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2016.12.08-14.04.45:437][563]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2016.12.08-14.04.45:437][563]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2016.12.08-14.04.45:437][563]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2016.12.08-14.04.45:438][563]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2016.12.08-14.04.45:438][563]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2016.12.08-14.04.45:439][563]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2016.12.08-14.04.45:440][563]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2016.12.08-14.04.45:440][563]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2016.12.08-14.04.45:440][563]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2016.12.08-14.04.45:442][563]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2016.12.08-14.04.45:443][563]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2016.12.08-14.04.45:444][563]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2016.12.08-14.04.45:445][563]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2016.12.08-14.04.45:445][563]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2016.12.08-14.04.45:448][563]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2016.12.08-14.04.45:448][563]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2016.12.08-14.04.45:448][563]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2016.12.08-14.04.45:448][563]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2016.12.08-14.04.45:448][563]LogModuleManager: Shutting down and abandoning module Core (75)
+[2016.12.08-14.04.45:448][563]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2016.12.08-14.04.45:448][563]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.12.08-14.04.45:448][563]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/Gummi Anka/GummiAnka/Content/' was aborted.
+[2016.12.08-14.04.45:448][563]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.12.08-14.04.45:448][563]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2016.12.08-14.04.45:596][563]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2016.12.08-14.04.45:596][563]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2016.12.08-14.04.45:596][563]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2016.12.08-14.04.45:597][563]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2016.12.08-14.04.45:597][563]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2016.12.08-14.04.45:598][563]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2016.12.08-14.04.45:598][563]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2016.12.08-14.04.45:599][563]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2016.12.08-14.04.45:600][563]LogDerivedDataCache: Shutdown
+[2016.12.08-14.04.45:600][563]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2016.12.08-14.04.45:601][563]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2016.12.08-14.04.45:601][563]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2016.12.08-14.04.45:601][563]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2016.12.08-14.04.45:602][563]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2016.12.08-14.04.45:602][563]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2016.12.08-14.04.45:602][563]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2016.12.08-14.04.45:602][563]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2016.12.08-14.04.45:603][563]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2016.12.08-14.04.45:603][563]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2016.12.08-14.04.45:603][563]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2016.12.08-14.04.45:603][563]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2016.12.08-14.04.45:603][563]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2016.12.08-14.04.45:603][563]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2016.12.08-14.04.45:603][563]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2016.12.08-14.04.45:603][563]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2016.12.08-14.04.45:604][563]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2016.12.08-14.04.45:604][563]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2016.12.08-14.04.45:604][563]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2016.12.08-14.04.45:604][563]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2016.12.08-14.04.45:604][563]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2016.12.08-14.04.45:604][563]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2016.12.08-14.04.45:604][563]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2016.12.08-14.04.45:604][563]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2016.12.08-14.04.45:604][563]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2016.12.08-14.04.45:604][563]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2016.12.08-14.04.45:604][563]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2016.12.08-14.04.45:604][563]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2016.12.08-14.04.45:604][563]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2016.12.08-14.04.45:604][563]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2016.12.08-14.04.45:604][563]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2016.12.08-14.04.45:604][563]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2016.12.08-14.04.45:605][563]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2016.12.08-14.04.45:605][563]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2016.12.08-14.04.45:605][563]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2016.12.08-14.04.45:605][563]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2016.12.08-14.04.45:605][563]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2016.12.08-14.04.45:605][563]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2016.12.08-14.04.45:605][563]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.12.08-14.04.45:605][563]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.12.08-14.04.45:606][563]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.12.08-14.04.45:606][563]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.12.08-14.04.45:606][563]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.12.08-14.04.45:607][563]LogHMD: Oculus shutdown.
+[2016.12.08-14.04.45:607][563]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2016.12.08-14.04.45:607][563]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2016.12.08-14.04.45:607][563]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2016.12.08-14.04.45:607][563]LogOnline:Display: Unloading online subsystem: NULL
+[2016.12.08-14.04.45:608][563]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2016.12.08-14.04.45:610][563]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.12.08-14.04.45:610][563]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.12.08-14.04.45:611][563]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.12.08-14.04.45:611][563]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.12.08-14.04.45:611][563]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.12.08-14.04.45:611][563]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.12.08-14.04.45:613][563]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.12.08-14.04.45:614][563]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.12.08-14.04.45:614][563]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.12.08-14.04.45:614][563]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.12.08-14.04.45:614][563]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.12.08-14.04.45:614][563]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.12.08-14.04.45:614][563]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.12.08-14.04.45:615][563]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.12.08-14.04.45:615][563]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.12.08-14.04.45:615][563]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.12.08-14.04.45:617][563]LogExit: Exiting.
+[2016.12.08-14.04.45:625][563]Log file closed, 12/08/16 15:04:45
